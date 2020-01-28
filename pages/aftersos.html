@@ -92,7 +92,7 @@
 		<!-- Page header content -->
 		<div class="page-header-content header-elements-md-inline">
 			<div class="page-title d-flex">
-				<h4>Tangible UI Projects <small class="font-size-base opacity-50">After SOS</small></h4>
+				<h4>Tangible UI Project <small class="font-size-base opacity-50">After SOS</small></h4>
 				<a href="#" class="header-elements-toggle text-white d-md-none"><i class="icon-more"></i></a>
 			</div>
 		</div>
@@ -216,39 +216,29 @@
 									</div>
 									<div class="col-sm-8">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<h4>This was my CPSC 599.88-Tangible UI Assignment 1.In a world where you have a radio equipment on your life vest
-                      on a cruising ship, after sending an SOS there is no use for it anymore. Hence I thought of using it for something.
-                      I came up with </h4>
+											<h4>This was my CPSC 599.88 - Tangible UI Assignment 1. I had to make a button and an LED light, then take
+											my own creative spin on it. Imagine you're on a sinking ship and your life vest has radio equipment attached.
+											After sending an SOS, there is no more use for the equipment. That's where my project comes in.</h4>
 										</div>
 									</div>
 									<div class="col-sm-2">
 									</div>
 								</div>
 								<div class="row">
-									<div class="col-sm-1">
-									</div>
 									<div class="col-sm-3">
-										<div class="d-flex align-items-center justify-content-center mb-2">
-											<a href="https://github.com/Nadramon/NadraSoccer/blob/master/NadraSoccer.py"><h4>Source Code</h4></a>
-										</div>
 									</div>
-									<div class="col-sm-4">
+									<div class="col-sm-6">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<a href="https://github.com/Nadramon/NadraSoccer/blob/master/NadraSoccer.py"><h4>Project Documentation</h4></a>
+											<a href="https://github.com/Nadramon/After-SOS/blob/master/After%20SOS.ino"><h4>Source Code</h4></a>
 										</div>
 									</div>
 									<div class="col-sm-3">
-										<div class="d-flex align-items-center justify-content-center mb-2">
-											<a href="https://discordapp.com/oauth2/authorize?client_id=656614671541075970&permissions=67584&scope=bot"><h4>Download Link</h4></a>
-										</div>
-									</div>
-									<div class="col-sm-1">
 									</div>
 								</div>
 								<div class="row">
 									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<!--<img src="../img/financetracker/fticon2.ico" class="">!-->
+											<img style="width: 20%;" src="../img/aftersos/derp.PNG" class="">
 										</div>
 									</div>
 								</div>
@@ -258,175 +248,126 @@
 				</div>
 				
 				<div class="row">
-					<div class="col-xl-12">
+					<div class="col-xl-4">
 						<div class="card">
-							<div class="card-header header-elements-inline">
-								<h1 class="card-title">Investigation</h1>
+							<div class="card-header header-elements-inline d-flex align-items-center justify-content-center mb-2">
+								<h1 class="card-title">	Abstract</h1>
 							</div>
 							<div class="card-body py-0">
 								<div class="row">
 									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<p>I frequent a coffee shop that barely uses any technology to enhance their restaurant.
-											They write down orders on paper and don't save any customer data such as address and phone
-											number when they order food. This is inefficient and redundant as a frequent customer
-											would have to keep telling the shop their address over and over again. I asked the workers
-											what phones they have and they all have an android phone, so for a solution, I thought
-											of making an Android Application.</p>
+											<p>I used 5 outputs of 4 LED lights, red, blue, yellow and white, and a piezo speaker. I used
+											1 input of a button. The user is able to use morse code to send codes to the LED lights to turn on
+											certain sequences to show a message. The piezo speaker is used to replicate the sound of the user
+											inputting morse code.
+											<br><br>
+											The button has a timer to detect how long it is being pressed. If it's a short press (less than 250ms) it is a
+											dot and if it's longer it's a dash. The program will translate the morse to a letter and after receiving 3
+											letters it will carry out the code attached.											
+											<br><br>
+											There is a total of 6 codes the user can input. WAT for "watch out" will turn the
+											red light on. HOW for "How are you?" will turn the white light on. BAD for "Bad" will blink the white light.
+											GOO for "Good" will turn the blue light on. COM for "come here" will turn the yellow light on. Finally, RAV
+											for "Rave Party" will blink all the lights.
+											<br><br>
+											My project is different because I stuffed my electronics inside a jacket. I wanted to get a good idea in the first
+											assignment about embodying my circuitry as it is the first time I've done it. I think using morse code is a slight
+											bonus from just pressing the button as it makes timing important.
+											
+											</p>
 										</div>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-				</div>
-				
-				<div class="row">
-					<div class="col-xl-12">
+					
+					<div class="col-xl-8">
 						<div class="card">
-							<div class="card-header header-elements-inline">
-								<h1 class="card-title">Design</h1>
+							<div class="card-header header-elements-inline d-flex align-items-center justify-content-center mb-2">
+								<h1 class="card-title">Circuit Schematic | Fritzing Diagram</h1>
 							</div>
 							<div class="card-body py-0">
 								<div class="row">
-									<div class="col-sm-12">
+									<div class="col-sm-2">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<p>I made many types of designs ranging from sketches to Data Flow Diagrams. I first sketched
-											what I wanted the application to look like and from there the choices are explained and
-											the structure of data is defined.</p>
 										</div>
 									</div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<div class="row">
-					<div class="col-xl-3">
-						<div class="card">
-							<div class="card-body py-0">
-								<div class="row">
-									<div class="col-sm-12">
+									<div class="col-sm-8">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<img src="../img/coffeeshop/1.jpg">
+											<img src="../img/aftersos/schematic.png" class="">
+										</div>
+									</div>
+									<div class="col-sm-2">
+										<div class="d-flex align-items-center justify-content-center mb-2">
 										</div>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-					<div class="col-xl-3">
-						<div class="card">
-							<div class="card-body py-0">
-								<div class="row">
-									<div class="col-sm-12">
-										<div class="d-flex align-items-center justify-content-center mb-2">
-											<img src="../img/coffeeshop/2.jpg">
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-xl-3">
-						<div class="card">
-							<div class="card-body py-0">
-								<div class="row">
-									<div class="col-sm-12">
-										<div class="d-flex align-items-center justify-content-center mb-2">
-											<img src="../img/coffeeshop/3.jpg">
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-xl-3">
-						<div class="card">
-							<div class="card-body py-0">
-								<div class="row">
-									<div class="col-sm-12">
-										<div class="d-flex align-items-center justify-content-center mb-2">
-											<img src="../img/coffeeshop/4.jpg">
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<div class="row">
-					<div class="col-xl-12">
-						<div class="card">
-							<div class="card-header header-elements-inline">
-								<h1 class="card-title">Implementation</h1>
-							</div>
-							<div class="card-body py-0">
-								<div class="row">
-									<div class="col-sm-12">
-										<div class="d-flex align-items-center justify-content-center mb-2">
-											<p>Android Studios was used to create the android application. I made an app for
-											customer user and another one for the workers. They both contain different features
-											suited to the users. For the customer's app, they are able to make an account, 
-											make an order, view menu, view order history and change account settings. For the worker's
-											app, they are able to confirm orders, view menu, edit menu, send notifications to
-											the customers and delete accounts.</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<div class="row">
-					<div class="col-xl-12">
-						<div class="card">
-							<div class="card-header header-elements-inline">
-								<h1 class="card-title">Evaluation</h1>
-							</div>
-							<div class="card-body py-0">
-								<div class="row">
-									<div class="col-sm-12">
-										<div class="d-flex align-items-center justify-content-center mb-2">
-											<p>Overall, the app was well received. There were suggestions from improvements given such as
-											making limits on ordering as of this moment you can order 9000 Lemon Chickens which is not
-											practical or ideal. I would have liked to do more with the UI design. It was a very simple and
-											efficient design, however it was very boring to look at and very blocky. Most of the pages
-											also looked very empty.</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
+					
+					
 				</div>
 				
 				<div class="row">
 					<div class="col-xl-12">
 						<div class="card">
 							<div class="card-header header-elements-inline d-flex align-items-center justify-content-center mb-2">
-								<h1 class="card-title">The Program</h1>
+								<h1 class="card-title">Design Process</h1>
 							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-xl-3">
+						<div class="card">
 							<div class="card-body py-0">
 								<div class="row">
-									<div class="col-sm-4">
+									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<img src="../img/nadrasoccer/1.png" class="">
+											<img src="../img/aftersos/sketch1.PNG">
 										</div>
 									</div>
-									<div class="col-sm-4">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-xl-3">
+						<div class="card">
+							<div class="card-body py-0">
+								<div class="row">
+									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<img src="../img/nadrasoccer/3.png" class="">
+											<img src="../img/aftersos/sketch2.PNG">
 										</div>
 									</div>
-									<div class="col-sm-4">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-xl-3">
+						<div class="card">
+							<div class="card-body py-0">
+								<div class="row">
+									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<img src="../img/nadrasoccer/5.png" class="">
+											<img src="../img/aftersos/1.jpg">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-xl-3">
+						<div class="card">
+							<div class="card-body py-0">
+								<div class="row">
+									<div class="col-sm-12">
+										<div class="d-flex align-items-center justify-content-center mb-2">
+											<img src="../img/aftersos/2.PNG">
 										</div>
 									</div>
 								</div>
@@ -434,6 +375,106 @@
 						</div>
 					</div>
 				</div>
+				
+				<div class="row">
+					<div class="col-xl-3">
+						<div class="card">
+							<div class="card-body py-0">
+								<div class="row">
+									<div class="col-sm-12">
+										<div class="d-flex align-items-center justify-content-center mb-2">
+											<img src="../img/aftersos/3.PNG">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-xl-3">
+						<div class="card">
+							<div class="card-body py-0">
+								<div class="row">
+									<div class="col-sm-12">
+										<div class="d-flex align-items-center justify-content-center mb-2">
+											<img src="../img/aftersos/4.PNG">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-xl-3">
+						<div class="card">
+							<div class="card-body py-0">
+								<div class="row">
+									<div class="col-sm-12">
+										<div class="d-flex align-items-center justify-content-center mb-2">
+											<img src="../img/aftersos/5.PNG">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-xl-3">
+						<div class="card">
+							<div class="card-body py-0">
+								<div class="row">
+									<div class="col-sm-12">
+										<div class="d-flex align-items-center justify-content-center mb-2">
+											<img src="../img/aftersos/6.PNG">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-xl-9">
+						<div class="card">
+							<div class="card-header header-elements-inline d-flex align-items-center justify-content-center mb-2">
+								<h1 class="card-title">Video Demo</h1>
+							</div>
+							<div class="card-body py-0">
+								<div class="row">
+									<div class="col-sm-12">
+										<div class="d-flex align-items-center justify-content-center mb-2">
+											<iframe width="560" height="315" src="https://www.youtube.com/embed/vgJup4AROJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>									</div>
+										
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-xl-3">
+						<div class="card">
+							<div class="card-header header-elements-inline d-flex align-items-center justify-content-center mb-2">
+								<h1 class="card-title">References</h1>
+							</div>
+							<div class="card-body py-0">
+								<div class="row">
+									<div class="col-sm-12">
+										<div class="d-flex align-items-center mb-2">
+											<p>
+											<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/International_Morse_Code.svg/1200px-International_Morse_Code.svg.png"  target="_blank">Morse Code Sheet</a>
+											<br>
+											<a href="https://stackoverflow.com/questions/32427630/how-to-detect-how-long-a-button-was-pressed-in-arduino" target="_blank">Tracking Button Press Time</a>
+											<br>
+											<a href="https://www.programmingelectronics.com/an-easy-way-to-make-noise-with-arduino-using-tone/" target="_blank">Using Piezo Buzzer</a>
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				
+				
+				
 			</div>
 		</div>
 	</div>
