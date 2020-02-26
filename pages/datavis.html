@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>Nadramon Productions</title>
+	
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
+	<link href="../limitless/global_assets/css/icons/icomoon/styles.min.css" rel="stylesheet" type="text/css">
+	<link href="../limitless/global_assets/css/icons/fontawesome/styles.min.css" rel="stylesheet" type="text/css">
+	<link href="../limitless/global_assets/css/icons/material/styles.min.css" rel="stylesheet" type="text/css">	
+	<link href="../limitless/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="../limitless/assets/css/bootstrap_limitless.min.css" rel="stylesheet" type="text/css">
+	<link href="../limitless/assets/css/layout.min.css" rel="stylesheet" type="text/css">
+	<link href="../limitless/assets/css/components.min.css" rel="stylesheet" type="text/css">
+	<link href="../limitless/assets/css/colors.min.css" rel="stylesheet" type="text/css">
+	<!-- /global stylesheets -->
+	
+	<!-- Core JS files -->
+	<script src="../limitless/global_assets/js/main/jquery.min.js"></script>
+	<script src="../limitless/global_assets/js/main/bootstrap.bundle.min.js"></script>
+	<script src="../limitless/global_assets/js/plugins/loaders/blockui.min.js"></script>
+	<script src="../limitless/global_assets/js/plugins/ui/slinky.min.js"></script>
+	<script src="../limitless/global_assets/js/plugins/ui/fab.min.js"></script>
+
+
+	<!-- Theme JS files -->
+	<script src="../limitless/global_assets/js/plugins/visualization/d3/d3.min.js"></script>
+	<script src="../limitless/global_assets/js/plugins/visualization/d3/d3_tooltip.js"></script>
+	<script src="../limitless/global_assets/js/plugins/forms/styling/switchery.min.js"></script>
+	
+	<script src="../limitless/global_assets/js/plugins/ui/moment/moment.min.js"></script>
+	<script src="../limitless/global_assets/js/plugins/pickers/daterangepicker.js"></script>
+	
+	<script src="../limitless/assets/js/app.js"></script>
+	
+	
+	<!-- echarts -->
+	<script src="../js/echarts.min.js"></script>
+	<script src="../js/chartMaker.js"></script>
+	
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+	
+	<style>
+	
+	img.photo {
+		border-radius: 10%;
+		border-style: solid;
+		border-width: 2px;
+	
+	</style>
+
+
+
+	
+</head>
+<body>
+
+<!-- Page header -->
+	<div class="page-header page-header-dark">
+
+		<!-- Main navbar -->
+		<div class="navbar navbar-expand-md navbar-dark border-transparent">
+			<div class="navbar-brand wmin-0 mr-5">
+				<a href="index.html" class="d-inline-block">
+					<img src="../img/nPT.png" alt="">
+				</a>
+			</div>
+
+
+
+			<div class="collapse navbar-collapse" id="navbar-mobile">
+
+				<ul class="navbar-nav ml-md-auto">
+					<li class="nav-item">
+						<a href="https://twitter.com/Nadramon" style="color: inherit;" target="_blank"><i class="icon-twitter font-size-xl"></i></a>
+					</li>
+					&nbsp &nbsp
+					<li class="nav-item">
+						<a href="https://www.linkedin.com/in/rsatriana/" style="color: inherit;" target="_blank"><i class="icon-linkedin2 font-size-xl"></i></a>
+					</li>
+					&nbsp &nbsp
+					<li class="nav-item">
+						<a href="https://github.com/Nadramon" style="color: inherit;" target="_blank"><i class="icon-github font-size-xl"></i></a>
+					</li>
+					&nbsp &nbsp 
+					<li class="nav-item ">
+						<a href="mailto:rsnadhif@gmail.com" style="color: inherit;" target="_blank"><i class="icon-mail5 font-size-xl"></i></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<!-- /main navbar -->
+
+
+		<!-- Page header content -->
+		<div class="page-header-content header-elements-md-inline">
+			<div class="page-title d-flex">
+				<h4>Data Visualisation <small class="font-size-base opacity-50">Charts</small></h4>
+				<a href="#" class="header-elements-toggle text-white d-md-none"><i class="icon-more"></i></a>
+			</div>
+		</div>
+		<!-- /page header content -->
+
+
+		<!-- Secondary navbar -->
+		<div class="navbar navbar-expand-md navbar-dark border-top-0">
+			<div class="d-md-none w-100">
+				<button type="button" class="navbar-toggler d-flex align-items-center w-100" data-toggle="collapse" data-target="#navbar-navigation">
+					<i class="icon-menu-open mr-2"></i>
+					Main navigation
+				</button>
+			</div>
+
+			<div class="navbar-collapse collapse" id="navbar-navigation">
+				<ul class="navbar-nav navbar-nav-highlight">
+					<li class="nav-item">
+						<a href="../index.html" class="navbar-nav-link">
+							<i class="fas fa-home mr-2"></i>
+							Homepage
+						</a>
+					</li>
+					
+					<li class="nav-item dropdown">
+						<a href="#" class="navbar-nav-link dropdown-toggle" data-toggle="dropdown">
+							<i class="fas fa-network-wired mr-1"></i>
+							Projects
+						</a>
+						<div class="dropdown-menu">
+							<a href="uofcmingle.html" class="dropdown-item"><i class="icon-users4"></i> UofC Mingle</a>
+							<a href="foodbank.html" class="dropdown-item"><i class="icon-database"></i> Foodbank Database System</a>
+							<a href="ducksouls.html" class="dropdown-item"><i class="icon-headset"></i> Duck Souls</a>
+							<a href="foodordering.html" class="dropdown-item "><i class="icon-cart5"></i> Coffee Shop Order App</a>
+						</div>
+					</li>
+					
+<!--
+					<li class="nav-item dropdown">
+						<a href="#" class="navbar-nav-link dropdown-toggle" data-toggle="dropdown">
+							<i class="fab fa-android  mr-1"></i>
+							Android Apps
+						</a>
+						<div class="dropdown-menu">
+							<a href="bwsoundboard.html" class="dropdown-item"><i class="icon-music"></i> Bi-Weekly Soundboard</a>
+							<a href="iqcounter.html" class="dropdown-item"><i class="icon-meter-slow "></i> Aiman's IQ Counter</a>
+						</div>
+					</li>!-->
+
+					<li class="nav-item dropdown">
+						<a href="#" class="navbar-nav-link dropdown-toggle" data-toggle="dropdown">
+							<i class="fab fa-python mr-1"></i>
+							Python Scripts
+						</a>
+
+						<div class="dropdown-menu">
+							<a href="financetracker.html" class="dropdown-item "><i class="icon-cash"></i> Finance Tracker</a>
+							<a href="nadrasoccer.html" class="dropdown-item "><i class="fas fa-volleyball-ball"></i> NadraSoccer</a>
+							<a href="rushhour.html" class="dropdown-item"><i class="icon-car"></i> Rush Hour Game</a>
+						</div>
+					</li>
+					
+					
+					<li class="nav-item dropdown">
+						<a href="#" class="navbar-nav-link dropdown-toggle" data-toggle="dropdown">
+							<i class="icon-hand"></i>
+							Tangible UI Project
+						</a>
+
+						<div class="dropdown-menu">
+							<a href="aftersos.html" class="dropdown-item"><i class="icon-dots"></i> After SOS</a>
+							<a href="ddi.html" class="dropdown-item"><i class="icon-piano"></i> Dance Dance Interactions</a>
+							<a href="tba.html" class="dropdown-item"><i class="icon-question4"></i> TBA</a>
+							<a href="tba.html" class="dropdown-item"><i class="icon-question4"></i> TBA</a>
+						</div>
+					</li>
+					
+					<li class="nav-item dropdown active">
+						<a href="#" class="navbar-nav-link">
+							<i class="icon-statistics "></i>
+							Data Visualisation
+						</a>
+					</li>
+				</ul>
+
+				<!--
+				<ul class="navbar-nav navbar-nav-highlight ml-md-auto">
+					<li class="nav-item dropdown">
+						<a href="#" class="navbar-nav-link dropdown-toggle" data-toggle="dropdown">
+							<i class="icon-user mr-2"></i>
+							About
+						</a>
+						<div class="dropdown-menu">
+							<a href="life.html" class="dropdown-item"><i class="icon-furniture"></i>Life</a>
+							<a href="hobbies.html" class="dropdown-item"><i class="icon-puzzle3 "></i>Hobbies</a>
+							<a href="achievements.html" class="dropdown-item"><i class="icon-medal-star"></i>Achievements</a>
+						</div>
+					</li>
+				</ul>
+				!-->
+			</div>
+		</div>
+		<!-- /secondary navbar -->
+
+
+	
+
+	</div>
+	<!-- /page header -->
+	
+	
+	<!-- Page content -->
+	<div class="page-content">
+
+		<!-- Main content -->
+		<div class="content-wrapper">
+
+			<!-- Content area -->
+			<div class="content">
+
+				<!-- Main Area -->
+				<div class="row">
+					<div class="col-xl-12">
+						<div class="card">
+							<div class="card-header header-elements-inline d-flex align-items-center justify-content-center mb-2">
+								<h1 class="card-title">Data Visualisation</h1>
+							</div>
+							<div class="card-body py-0">
+								<div class="row">
+									<div class="col-sm-2">
+									</div>
+									<div class="col-sm-8">
+										<div class="d-flex align-items-center justify-content-center mb-2">
+											<h4>I made a chart engine to easily create visualisations for users, which uses the open source
+											<a href="https://www.echartsjs.com/en/index.html" target="_blank">ECharts javascript</a> library. They simply have
+											to select their data and choose which chart they want to present it with, given the data
+											is compatible with the chart. The charts are all interactive, being able to remove some elements
+											or hovering over certain ones would change the visualisation to show another story for the data. I was
+											given permission from my internship to use/show this project I made at my time there. All the data on this
+											page are made up, and no way affiliated with any real water data, simply to show what my charts look like.</h4>
+										</div>
+									</div>
+									<div class="col-sm-2">
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class='row'>
+					<div class='col-xl-4'>
+						<div class="card">
+							<div class="card-header header-elements-inline">
+								<h1 class="card-title">Combo Chart Options</h1>
+							</div>
+							<div class="card-body py-0">
+								<div class="row">
+									<div class="col-sm-6">
+										<div class="form-group">
+											<label class="font-weight-semibold">Show Data</label>
+											<div class="form-check">
+												<label class="form-check-label">
+													<input id="pot" type="checkbox" class="form-check-input" checked>
+													Potential
+												</label>
+											</div>
+											<div class="form-check">
+												<label class="form-check-label">
+													<input id="sw" type="checkbox" class="form-check-input" checked>
+													SurfaceWater
+												</label>
+											</div>
+											<div class="form-check">
+												<label class="form-check-label">
+													<input id="gw" type="checkbox" class="form-check-input" checked>
+													GroundWater
+												</label>
+											</div>
+											<div class="form-check">
+												<label class="form-check-label">
+													<input id="ww" type="checkbox" class="form-check-input" checked>
+													WasteWater
+												</label>
+											</div>
+											<div class="form-check">
+												<label class="form-check-label">
+													<input id="temp" type="checkbox" class="form-check-input" checked>
+													Avg Temp
+												</label>
+											</div>
+											<div class="form-check">
+												<label class="form-check-label">
+													<input id="err" type="checkbox" class="form-check-input" checked>
+													Error %
+												</label>
+											</div>
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="form-group">
+											<label class="font-weight-semibold">Data Range</label>
+											<div class="form-check">
+												Start Date:
+												<select id="sd" name="carlist">
+												  <option value="0">Jan'19</option>
+												  <option value="1">Feb'19</option>
+												  <option value="2">Mar'19</option>
+												  <option value="3">Apr'19</option>
+												  <option value="4">May'19</option>
+												  <option value="5">Jun'19</option>
+												  <option value="6">Jul'19</option>
+												  <option value="7">Aug'19</option>
+												  <option value="8">Sep'19</option>
+												</select>
+											</div>
+											<div class="form-check">
+												End Date:
+												<select id="ed" name="carlist">
+												  <option value="0">Jan'19</option>
+												  <option value="1">Feb'19</option>
+												  <option value="2">Mar'19</option>
+												  <option value="3">Apr'19</option>
+												  <option value="4">May'19</option>
+												  <option value="5">Jun'19</option>
+												  <option value="6">Jul'19</option>
+												  <option value="7">Aug'19</option>
+												  <option value="8">Sep'19</option>
+												</select>
+											</div>
+											<div class="form-check">
+												 <button type="button" onclick="update()">Enter</button> 
+											
+											</div>
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='col-xl-8'>
+						<div class='card '>
+							<div class='card-body'>
+								<div class='row'>
+									<div class='col-sm-12'>
+										<div id="help" class='d-flex align-items-center justify-content-center'>
+											<div style='width:100%; height:400px;' class='d-flex align-items-center justify-content-center' id='comboChart'></div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				
+				<div class='row'>
+					<div class='col-xl-12'>
+						<div class='card '>
+							<div class='card-body'>
+								<div class='row'>
+									<div class='col-sm-12'>
+										<div class='d-flex align-items-center justify-content-center'>
+											<div style='width:100%; height:400px;' class='d-flex align-items-center justify-content-center' id='barOfPie'></div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				
+				<div class='row'>
+					<div class='col-xl-12'>
+						<div class='card '>
+							<div class='card-body'>
+								<div class='row'>
+									<div class='col-sm-12'>
+										<div class='d-flex align-items-center justify-content-center'>
+											<div style='width:100%; height:400px;' class='d-flex align-items-center justify-content-center' id='pieOfPie'></div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class='row'>
+					<div class='col-xl-6'>
+						<div class='card '>
+							<div class='card-body'>
+								<div class='row'>
+									<div class='col-sm-12'>
+										<div class='d-flex align-items-center justify-content-center'>
+											<div style='width:100%; height:400px;' class='d-flex align-items-center justify-content-center' id='nestedPie'></div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='col-xl-6'>
+						<div class='card '>
+							<div class='card-body'>
+								<div class='row'>
+									<div class='col-sm-12'>
+										<div class='d-flex align-items-center justify-content-center'>
+											<div style='width:100%; height:400px;' class='d-flex align-items-center justify-content-center' id='waterfall'></div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				
+				
+				
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	<!-- Footer -->
+	<div class="navbar navbar-expand-lg navbar-light">
+		<div class="text-center d-lg-none w-100">
+			<button type="button" class="navbar-toggler dropdown-toggle" data-toggle="collapse" data-target="#navbar-footer">
+				<i class="icon-unfold mr-2"></i>
+				Footer
+			</button>
+		</div>
+
+		<div class="navbar-collapse collapse" id="navbar-footer">
+			<span class="navbar-text">
+				&copy; 2017 - 2020. <a href="#">Nadramon Productions</a> by <a href="#" target="_blank">Rahmanta Satriana</a>
+			</span>
+
+			<ul class="navbar-nav ml-lg-auto">
+			</ul>
+		</div>
+	</div>
+	<!-- /footer -->
+
+
+</body>
+</html>
+
+<script>
+
+
+function update() {
+	
+	document.getElementById('help').innerHTML = "<div style='width:100%; height:400px;' class='d-flex align-items-center justify-content-center' id='comboChart'></div>";
+	setTimeout(function(){
+	pot = document.getElementById('pot').checked;
+	sw = document.getElementById('sw').checked;
+	gw = document.getElementById('gw').checked;
+	ww = document.getElementById('ww').checked;
+	temp = document.getElementById('temp').checked;
+	err = document.getElementById('err').checked;
+	
+	sd = document.getElementById('sd').value;
+	ed = document.getElementById('ed').value;
+
+	
+	console.log(pot);
+
+	if (sd > ed) {
+
+		aa = sd;
+		sd = ed;
+		ed = aa;
+	}
+	
+	ed = parseInt(ed);
+	ed = ed + 1;
+	
+	dateD = ["Jan'19","Feb'19","Mar'19","Apr'19","May'19","Jun'19","Jul'19","Aug'19","Sep'19"];
+	potD = [2000,2134,2421,2245,2345,2222,2123,2321,2111];
+	swD = [1230,1000,1540,1454,1475,1321,1643,1532,1200];
+	gwD = [234,432,511,234,431,325,391,264,321];
+	wwD = [56,102,87,56,112,87,33,200,99];
+	tempD = [26,24,25,24,28,31,23,21,24];
+	errD = [5,3,4,11,6,4,2,1,7];
+	
+	id = 0;
+	
+	data = {};
+	
+	for (sd; sd < ed; sd++) {
+		curr = {}
+		curr["Date"] = dateD[sd];
+		
+		if (pot == true) curr["Potential"] = potD[sd];
+		if (sw == true) curr["SurfaceWater"] = swD[sd];
+		if (gw == true) curr["GroundWater"] = gwD[sd];
+		if (ww == true) curr["WasteWater"] = wwD[sd];
+		if (temp == true) curr["Avg Temp"] = tempD[sd];
+		if (err == true) curr["Error %"] = errD[sd];
+		
+		
+		
+		
+		data[id] = curr;
+		id = id + 1;
+	}
+	
+	console.log(data);
+	
+	vis = [[0,0,0]];
+	
+	first = false;
+	second = false;
+	third = false;
+	
+	if (pot == true) {vis[0][0] += 1; first = true;}
+	if (sw == true) {vis[0][1] += 1; first = true;}
+	if (gw == true) {vis[0][1] += 1; first = true;}
+	if (ww == true) {vis[0][1] += 1; first = true;}
+	
+	
+	if (temp == true && first == false) {vis[0][2] += 1; second = true;}
+	else if  (temp == true && first == true) {vis.push([0,0,1]); second = true;}
+	
+	if (err == true && second == true) {vis.push([0,0,1]); third = true;}
+	else if  (err == true && second == false && first == true) {vis.push([0,0,1]); third = true;}
+	else if  (err == true && second == false && first == false) {vis[0][2] += 1; third = true;}
+	
+	label = [];
+	
+	if (first == true) label.push("m³");
+	if (second == true) label.push("°C");
+	if (third == true) label.push("%");
+
+	
+		createChart(data, "Combo Chart", "comboChart", 0, vis, true, true, [], label);
+	}, 500);
+}
+
+comboChartData = {0: {"Date": "Jan'19", "Potential": 2000, "SurfaceWater": 1230, "GroundWater": 234, "WasteWater": 56, "Avg Temp": 26, "Error %": 5},
+		1: {"Date": "Feb'19", "Potential": 2134, "SurfaceWater": 1000, "GroundWater": 432, "WasteWater": 102, "Avg Temp": 24, "Error %": 3},
+		2: {"Date": "Mar'19", "Potential": 2421, "SurfaceWater": 1540, "GroundWater": 511, "WasteWater": 87, "Avg Temp": 25, "Error %": 4},
+		3: {"Date": "Apr'19", "Potential": 2245, "SurfaceWater": 1454, "GroundWater": 234, "WasteWater": 56, "Avg Temp": 24, "Error %": 11},
+		4: {"Date": "May'19", "Potential": 2345, "SurfaceWater": 1475, "GroundWater": 431, "WasteWater": 112, "Avg Temp": 28, "Error %": 6},
+		5: {"Date": "Jun'19", "Potential": 2222, "SurfaceWater": 1321, "GroundWater": 325, "WasteWater": 87, "Avg Temp": 31, "Error %": 4},
+		6: {"Date": "Jul'19", "Potential": 2123, "SurfaceWater": 1643, "GroundWater": 391, "WasteWater": 33, "Avg Temp": 23, "Error %": 2},
+		7: {"Date": "Aug'19", "Potential": 2321, "SurfaceWater": 1532, "GroundWater": 264, "WasteWater": 200, "Avg Temp": 21, "Error %": 1},
+		8: {"Date": "Sep'19", "Potential": 2111, "SurfaceWater": 1200, "GroundWater": 321, "WasteWater": 99, "Avg Temp": 24, "Error %": 7}};
+
+createChart(comboChartData, "Combo Chart", "comboChart", 0, [[1,3,0],[0,0,1],[0,0,1]], true, true, [], ["m³", "°C", "%"]);
+
+barOfPieData = {0: {"Date": "Jan'19", "TANK-1": 325, "TANK-2": 546, "TANK-3": 234, "TANK-4": 123, "RESERVES": 213},
+		1: {"Date": "Feb'19", "TANK-1": 312, "TANK-2": 654, "TANK-3": 432, "TANK-4": 567, "RESERVES": 321},
+		2: {"Date": "Mar'19", "TANK-1": 365, "TANK-2": 345, "TANK-3": 511, "TANK-4": 543, "RESERVES": 123},
+		3: {"Date": "Apr'19", "TANK-1": 241, "TANK-2": 764, "TANK-3": 234, "TANK-4": 123, "RESERVES": 212},
+		4: {"Date": "May'19", "TANK-1": 572, "TANK-2": 764, "TANK-3": 431, "TANK-4": 432, "RESERVES": 111},
+		5: {"Date": "Jun'19", "TANK-1": 123, "TANK-2": 754, "TANK-3": 325, "TANK-4": 765, "RESERVES": 142},
+		6: {"Date": "Jul'19", "TANK-1": 321, "TANK-2": 324, "TANK-3": 391, "TANK-4": 324, "RESERVES": 165},
+		7: {"Date": "Aug'19", "TANK-1": 531, "TANK-2": 867, "TANK-3": 264, "TANK-4": 532, "RESERVES": 121},
+		8: {"Date": "Sep'19", "TANK-1": 312, "TANK-2": 732, "TANK-3": 321, "TANK-4": 123, "RESERVES": 189}};
+
+
+createChart(barOfPieData, "Bar of Pie Chart", "barOfPie", 5, [[]], true, false, [], ["m³"]);
+
+
+pieOfPieData1 = {0: {"Source": "TANK-1", "Val": 1253},
+		1: {"Source": "TANK-2", "Val": 933},
+		2: {"Source": "TANK-3", "Val": 853},
+		3: {"Source": "TANK-4", "Val": 1143},
+		4: {"Source": "RESERVES", "Val": 350}};
+		
+pieOfPieData2 = {0: {"Source": "BOTTLE-1", "Val": 65},
+		1: {"Source": "BOTTLE-2", "Val": 32},
+		2: {"Source": "BOTTLE-3", "Val": 14},
+		3: {"Source": "GALLON-1", "Val": 45},
+		4: {"Source": "GALLON-2", "Val": 22},
+		5: {"Source": "GALLON-3", "Val": 13},
+		6: {"Source": "GALLON-4", "Val": 54},
+		7: {"Source": "POUCH-1", "Val": 61},
+		8: {"Source": "POUCH-2", "Val": 44}};
+
+
+createChart(pieOfPieData1, "Pie of Pie Chart", "pieOfPie", 13, [[]], true, false, pieOfPieData2);
+
+
+createChart(pieOfPieData1, "Nested Pie Chart", "nestedPie", 14, [[]], true, false, pieOfPieData2);
+
+
+waterfallData = {0: {"Total": 654, "Target": 564},
+		1: {"Total": 456, "Target": 376},
+		2: {"Total": 256, "Target": 321},
+		3: {"Total": 643, "Target": 632},
+		4: {"Total": 764, "Target": 684},
+		5: {"Total": 451, "Target": 532},
+		6: {"Total": 765, "Target": 653},
+		7: {"Total": 532, "Target": 533},
+		8: {"Total": 856, "Target": 567}};
+
+waterfallData = {0: {"Jan'19": 654, "Feb'19": 456, "Mar'19": 256, "Apr'19": 643, "May'19": 764, "Jun'19": 451, "Jul'19": 765, "Aug'19": 532, "Sep'19": 856},
+		1: {"Jan'19": 564, "Feb'19": 376, "Mar'19": 321, "Apr'19": 632, "May'19": 684, "Jun'19": 532, "Jul'19": 653, "Aug'19": 872, "Sep'19": 567}};
+
+
+createChart(waterfallData, "Waterfall Chart", "waterfall", 2, [[]], true, false, ["Target", "Actual"]);
+
+
+</script>
