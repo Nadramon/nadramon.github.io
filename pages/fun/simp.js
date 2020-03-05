@@ -12,7 +12,7 @@ var firebaseConfig = {
 firebase.initializeApp(firebaseConfig);
 firebase.analytics();
 var ref = firebase.database().ref();
-
+var rate = 0.001564;
 
 
 
@@ -56,6 +56,14 @@ function loadStonks() {
 			restartData[x] = curr;
 		}
 		
+		document.getElementById('0').innerText = "SIMP$ " + (data[keys[len-1]][keys2[0]] * rate).toFixed(2);
+		document.getElementById('1').innerText = "SIMP$ " + (data[keys[len-1]][keys2[1]] * rate).toFixed(2);
+		document.getElementById('2').innerText = "SIMP$ " + (data[keys[len-1]][keys2[2]] * rate).toFixed(2);
+		document.getElementById('3').innerText = "SIMP$ " + (data[keys[len-1]][keys2[3]] * rate).toFixed(2);
+		document.getElementById('4').innerText = "SIMP$ " + (data[keys[len-1]][keys2[4]] * rate).toFixed(2);
+		document.getElementById('5').innerText = "SIMP$ " + (data[keys[len-1]][keys2[5]] * rate).toFixed(2);
+		document.getElementById('6').innerText = "SIMP$ " + (data[keys[len-1]][keys2[6]] * rate).toFixed(2);
+		
 		createChart(restartData, "Simp Stonks", "comboChart", 0, [[0,0,7]], true, true, [], ["simp/d"]);
 
 	}, function (error) {
@@ -70,6 +78,21 @@ function resetStonks() {
 	
 	loadStonks();
 	
+}
+
+
+function updateConversion() {
+	
+	ref.on("value", function(snapshot) {
+		data = snapshot.val();
+		len = Object.keys(data).length;
+		keys = Object.keys(data);
+		keys2 = Object.keys(data[keys[len-1]]);
+
+		
+	}, function (error) {
+	   console.log("Error: " + error.code);
+	});
 }
 
 
