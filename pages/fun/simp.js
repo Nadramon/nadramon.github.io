@@ -28,6 +28,45 @@ function getTodayDate() {
 }
 
 
+function getYesterdayDate() {
+	
+	var now = new Date();
+	now.setDate(now.getDate()-1);
+	var day = ("0" + now.getDate()).slice(-2);
+	var month = ("0" + (now.getMonth() + 1)).slice(-2);
+	var yest = now.getFullYear() + "-" + (month) + "-" + (day);
+	return yest;
+}
+
+function newDay() {
+	
+	var today = getTodayDate();
+	var refName = today + "/";
+	var yesterday = getYesterdayDate();
+	var refName2 = yesterday + "/";
+	firebase.database().ref(refName).once('value').then(function(snapshot) {
+		var val = snapshot.val();
+		if (val == null) {			
+			firebase.database().ref(refName2).once('value').then(function(snapshot) {
+				var val2 = snapshot.val();
+				var playersRef = firebase.database().ref(refName);
+				playersRef.set({
+				   Alfa: val2["Alfa"],
+				   Nadhif: val2["Nadhif"],
+				   Nanda: val2["Nanda"],
+				   Nielson: val2["Nielson"],
+				   Ronan: val2["Ronan"],
+				   Wesley: val2["Wesley"],
+				   Yushae: val2["Yushae"]
+				});
+			
+			});
+		}
+	});
+
+	
+}
+
 
 function loadStonks() {
 	
@@ -96,11 +135,23 @@ function updateConversion() {
 }
 
 
-function changeStonks(name, val, id) {
+function changeStonks(name, cval, id) {
 	refName = getTodayDate();
 	refName = refName + "/" + name + "/";
 	var playersRef = firebase.database().ref(refName);
 	var toChange;
+	
+	/*
+	firebase.database().ref(refName).once('value').then(function(snapshot) {
+		var val = snapshot.val();
+		val = val + cval;
+		if (val < 0) val = 0;
+		playersRef.set(toChange);
+	});
+	*/
+	
+	
+	
 	ref.on("value", function(snapshot) {
 		data = snapshot.val();
 		len = Object.keys(data).length;
@@ -108,6 +159,7 @@ function changeStonks(name, val, id) {
 		keys2 = Object.keys(data[keys[len-1]]);
 		toChange = data[keys[len-1]][keys2[id]];
 		toChange = toChange + val;
+		if (toChange < 0) toChange = 0;
 		
 	}, function (error) {
 	   console.log("Error: " + error.code);
