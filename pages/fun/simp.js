@@ -12,7 +12,7 @@ var firebaseConfig = {
 firebase.initializeApp(firebaseConfig);
 firebase.analytics();
 var ref = firebase.database().ref();
-var rate = 0.001564;
+var rate = 0.005641;
 
 
 
@@ -78,7 +78,7 @@ function loadStonks() {
 		len = Object.keys(data).length;
 		keys = Object.keys(data);
 		
-		for (x = 0; x < len; x++) {
+		for (x = 0; x < len-1; x++) {
 			curr = {}
 			curr["Date"] = keys[x];
 			
@@ -95,13 +95,13 @@ function loadStonks() {
 			restartData[x] = curr;
 		}
 		
-		document.getElementById('0').innerText = "SIMP$ " + (data[keys[len-1]][keys2[0]] * rate).toFixed(2);
-		document.getElementById('1').innerText = "SIMP$ " + (data[keys[len-1]][keys2[1]] * rate).toFixed(2);
-		document.getElementById('2').innerText = "SIMP$ " + (data[keys[len-1]][keys2[2]] * rate).toFixed(2);
-		document.getElementById('3').innerText = "SIMP$ " + (data[keys[len-1]][keys2[3]] * rate).toFixed(2);
-		document.getElementById('4').innerText = "SIMP$ " + (data[keys[len-1]][keys2[4]] * rate).toFixed(2);
-		document.getElementById('5').innerText = "SIMP$ " + (data[keys[len-1]][keys2[5]] * rate).toFixed(2);
-		document.getElementById('6').innerText = "SIMP$ " + (data[keys[len-1]][keys2[6]] * rate).toFixed(2);
+		document.getElementById('0').innerText = "SIMP$ " + (data[keys[len-2]][keys2[0]] * rate).toFixed(2);
+		document.getElementById('1').innerText = "SIMP$ " + (data[keys[len-2]][keys2[1]] * rate).toFixed(2);
+		document.getElementById('2').innerText = "SIMP$ " + (data[keys[len-2]][keys2[2]] * rate).toFixed(2);
+		document.getElementById('3').innerText = "SIMP$ " + (data[keys[len-2]][keys2[3]] * rate).toFixed(2);
+		document.getElementById('4').innerText = "SIMP$ " + (data[keys[len-2]][keys2[4]] * rate).toFixed(2);
+		document.getElementById('5').innerText = "SIMP$ " + (data[keys[len-2]][keys2[5]] * rate).toFixed(2);
+		document.getElementById('6').innerText = "SIMP$ " + (data[keys[len-2]][keys2[6]] * rate).toFixed(2);
 		
 		createChart(restartData, "Simp Stonks", "comboChart", 0, [[0,0,7]], true, true, [], ["simp/d"]);
 
@@ -126,7 +126,7 @@ function updateConversion() {
 		data = snapshot.val();
 		len = Object.keys(data).length;
 		keys = Object.keys(data);
-		keys2 = Object.keys(data[keys[len-1]]);
+		keys2 = Object.keys(data[keys[len-2]]);
 
 		
 	}, function (error) {
@@ -142,11 +142,17 @@ function changeStonks(name, cval, id) {
 	var toChange;
 	
 	/*
-	firebase.database().ref(refName).once('value').then(function(snapshot) {
-		var val = snapshot.val();
-		val = val + cval;
-		if (val < 0) val = 0;
-		playersRef.set(toChange);
+	firebase.database().ref("Log/").once('value').then(function(snapshot) {
+		var logs = snapshot.val();
+		console.log(logs);
+		var logLen = Object.keys(logs).length;
+		logRef = "Log/" + logLen + "/";
+		$.getJSON('https://ipfind.co/me?auth=<your_api_key>', function(data) {
+		  detail = JSON.stringify(data, null, 2);
+		  playersRef.set(detail);
+		});
+		
+		
 	});
 	*/
 	
@@ -156,9 +162,9 @@ function changeStonks(name, cval, id) {
 		data = snapshot.val();
 		len = Object.keys(data).length;
 		keys = Object.keys(data);
-		keys2 = Object.keys(data[keys[len-1]]);
-		toChange = data[keys[len-1]][keys2[id]];
-		toChange = toChange + val;
+		keys2 = Object.keys(data[keys[len-2]]);
+		toChange = data[keys[len-2]][keys2[id]];
+		toChange = toChange + cval;
 		if (toChange < 0) toChange = 0;
 		
 	}, function (error) {
