@@ -95,13 +95,13 @@ function loadStonks() {
 			restartData[x] = curr;
 		}
 		
-		document.getElementById('0').innerText = "SIMP$ " + (data[keys[len-2]][keys2[0]] * rate).toFixed(2);
-		document.getElementById('1').innerText = "SIMP$ " + (data[keys[len-2]][keys2[1]] * rate).toFixed(2);
-		document.getElementById('2').innerText = "SIMP$ " + (data[keys[len-2]][keys2[2]] * rate).toFixed(2);
-		document.getElementById('3').innerText = "SIMP$ " + (data[keys[len-2]][keys2[3]] * rate).toFixed(2);
-		document.getElementById('4').innerText = "SIMP$ " + (data[keys[len-2]][keys2[4]] * rate).toFixed(2);
-		document.getElementById('5').innerText = "SIMP$ " + (data[keys[len-2]][keys2[5]] * rate).toFixed(2);
-		document.getElementById('6').innerText = "SIMP$ " + (data[keys[len-2]][keys2[6]] * rate).toFixed(2);
+		document.getElementById('0').innerText = "Alfa - SIMP$ " + ((data[keys[len-2]][keys2[0]] + data[keys[len-3]][keys2[0]] + data[keys[len-4]][keys2[0]] + data[keys[len-5]][keys2[0]] + data[keys[len-6]][keys2[0]])/5 * rate).toFixed(2);
+		document.getElementById('1').innerText = "Nadhif - SIMP$ " + ((data[keys[len-2]][keys2[1]] + data[keys[len-3]][keys2[1]] + data[keys[len-4]][keys2[1]] + data[keys[len-5]][keys2[1]] + data[keys[len-6]][keys2[1]])/5 * rate).toFixed(2);
+		document.getElementById('2').innerText = "Nanda - SIMP$ " + ((data[keys[len-2]][keys2[2]] + data[keys[len-3]][keys2[2]] + data[keys[len-4]][keys2[2]] + data[keys[len-5]][keys2[2]] + data[keys[len-6]][keys2[2]])/5 * rate).toFixed(2);
+		document.getElementById('3').innerText = "Nielson - SIMP$ " + ((data[keys[len-2]][keys2[3]] + data[keys[len-3]][keys2[3]] + data[keys[len-4]][keys2[3]] + data[keys[len-5]][keys2[3]] + data[keys[len-6]][keys2[3]])/5 * rate).toFixed(2);
+		document.getElementById('4').innerText = "Ronan - SIMP$ " + ((data[keys[len-2]][keys2[4]] + data[keys[len-3]][keys2[4]] + data[keys[len-4]][keys2[4]] + data[keys[len-5]][keys2[4]] + data[keys[len-6]][keys2[4]])/5 * rate).toFixed(2);
+		document.getElementById('5').innerText = "Wesley - SIMP$ " + ((data[keys[len-2]][keys2[5]] + data[keys[len-3]][keys2[5]] + data[keys[len-4]][keys2[5]] + data[keys[len-5]][keys2[5]] + data[keys[len-6]][keys2[5]])/5 * rate).toFixed(2);
+		document.getElementById('6').innerText = "Yushae - SIMP$ " + ((data[keys[len-2]][keys2[6]] + data[keys[len-3]][keys2[6]] + data[keys[len-4]][keys2[6]] + data[keys[len-5]][keys2[6]] + data[keys[len-6]][keys2[6]])/5 * rate).toFixed(2);
 		
 		createChart(restartData, "Simp Stonks", "comboChart", 0, [[0,0,7]], true, true, [], ["simp/d"]);
 
