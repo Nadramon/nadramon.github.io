@@ -1,4 +1,5 @@
 function loadVariation1() {
+	document.getElementById("board").innerHTML = "";
     'use strict';
     var mapScale = 80000;
     var mapTranslateX = 750;
