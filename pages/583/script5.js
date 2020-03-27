@@ -80,7 +80,7 @@ function loadVariation5() {
                 var g = svg.selectAll('points').data(data.filter(function(d){
                     var strLen = d.date.length;
                     var year = d.date.slice(strLen-4,strLen);
-                    return (year == '2012');
+                    return (year == '2014');
                 }))
                     .enter()
                     .append("g");

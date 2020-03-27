@@ -20,7 +20,7 @@ function loadVariation7() {
         Arson: "\uf7e4",
         "Blunt Object": "\uf6e3",
         Gun: "\uf05b",
-        Knife: "\uf2e7",
+        Knife: "\uf506",
         Ligature: "\uf5b7",
         None: "\uf057",
         Other: "\uf059",
@@ -181,7 +181,7 @@ function loadVariation7() {
 
     let weaponColors = ["red", "#cc79a7", "#0072b2","#f0e442", "#D81B60", "#1E88E5", "#000000", "lime", "#F32AD1", "grey"];
 
-    let weaponIcons = ["\uf7e4","\uf6e3","\uf05b", "\uf2e7", "\uf5b7", "\uf057", "\uf059", "\uf714", "\uf6de", "\uf5e1"];
+    let weaponIcons = ["\uf7e4","\uf6e3","\uf05b", "\uf506", "\uf5b7", "\uf057", "\uf059", "\uf714", "\uf6de", "\uf5e1"];
 
     d3.csv('homicideEdit.csv')
         .then(data=>{
