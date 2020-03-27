@@ -2,7 +2,7 @@ function loadVariation2() {
 	document.getElementById("board").innerHTML = "";
     'use strict';
     var mapScale = 80000;
-    var mapTranslateX = 750;
+    var mapTranslateX = 1000;
     var mapTranslateY = mapScale * 0.99388888888888;
     const weaponsColour = {Arson: "#FF0000",
         "Blunt Object": "#00FF00",
@@ -50,7 +50,7 @@ function loadVariation2() {
     legend.append("text").attr("x", 40).attr("y", 30).text("Arson").style("font-size", "15px").attr("alignment-baseline","middle")
     legend.append("text").attr("x", 40).attr("y", 60).text("Blunt Object").style("font-size", "15px").attr("alignment-baseline","middle")
     legend.append("text").attr("x", 20).attr("y", 90).text("\uf05b").attr("class", "fa").attr("fill", "#0000FF").attr("stroke", "12px")
-    legend.append("text").attr("x", 20).attr("y", 120).text("\uf2e7").attr("class", "fa").attr("fill", "#FFFFFF").attr("stroke", "12px")
+    legend.append("text").attr("x", 20).attr("y", 120).text("\uf506").attr("class", "fa").attr("fill", "#FFFFFF").attr("stroke", "12px")
     legend.append("text").attr("x", 40).attr("y", 90).text("Gun").style("font-size", "15px").attr("alignment-baseline","middle")
     legend.append("text").attr("x", 40).attr("y", 120).text("Knife").style("font-size", "15px").attr("alignment-baseline","middle")
     legend.append("text").attr("x", 20).attr("y", 150).text("\uf5b7").attr("class", "fa").attr("fill", "#FF00FF").attr("stroke", "12px")
