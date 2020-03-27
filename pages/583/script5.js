@@ -117,8 +117,8 @@ function loadVariation5() {
                     //     console.log("Borough[data]: " + d.ladnm); console.log("Borough[data]: " + d.latitude);});
 
                 //1200, 50
-                let legendX = 1105;
-                let legendY = 390;
+                let legendX = 1300;
+                let legendY = 100;
                 g.append("rect")
                     .attr("x", legendX)
                     .attr("y", legendY)
