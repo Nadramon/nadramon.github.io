@@ -1,0 +1,795 @@
+﻿date,vicage,vicsex,vicethnic,susno,susage,sussex,weapon,Status,latitude,longitude,ladnm
+1/1/2012,22,M,Black or Black British,5,25,M,Gun,Solved,51.521,-0.11141,Holborn and St Pancras
+1/2/2012,20,F,White or White British,1,19,M,Knife,Solved,51.53799,-0.06764,Hackney South and Shoreditch
+1/21/2012,32,F,Asian or Asian British,3,62,M,Other,Unsolved,51.51022,-0.312487,Ealing Central and Acton
+1/25/2012,64,M,White or White British,2,37,M,None,Solved,51.46743,0.17192,Bexleyheath and Crayford
+1/29/2012,83,M,White or White British,,,,Other,Solved,51.48159,-0.31872,Brentford and Isleworth
+2/1/2012,32,M,Any Other Ethnic Appearance,3,22,M,Gun,Solved,51.58943,-0.10772,Hornsey and Wood Green
+2/5/2012,34,F,,1,36,M,None,Solved,51.48924,-0.20963,Hammersmith
+2/7/2012,70,M,Black or Black British,1,39,M,Vehicle,Solved,51.51319,-0.42267,Hayes and Harlington
+2/7/2012,17,F,Black or Black British,1,18,M,None,Solved,51.59081,0.08258,Ilford North
+2/7/2012,26,M,Black or Black British,1,31,M,None,Solved,51.43364,-0.16324,Tooting
+2/14/2012,35,M,Black or Black British,1,28,M,None,Solved,51.55567,-0.29862,Brent North
+2/15/2012,58,M,Black or Black British,,,,None,Unsolved,51.46646,-0.02087,"Lewisham, Deptford"
+2/25/2012,26,M,White or White British,2,23,M,Knife,Solved,51.5393,-0.14463,Holborn and St Pancras
+3/1/2012,29,F,White or White British,1,35,M,None,Solved,51.5518,-0.06464,Hackney South and Shoreditch
+3/1/2012,80,M,White or White British,1,31,M,None,Solved,51.59651,-0.11502,Hornsey and Wood Green
+3/2/2012,17,M,Black or Black British,3,18,M,Knife,Solved,51.46114,-0.10883,Dulwich and West Norwood
+3/10/2012,48,M,Asian or Asian British,1,37,M,None,Solved,51.37847,-0.09347,Croydon Central
+3/13/2012,59,F,White or White British,1,52,M,Knife,Solved,51.50849,-0.3205,Ealing Central and Acton
+3/24/2012,76,F,White or White British,1,43,M,Other,Solved,51.43788,-0.05875,Lewisham West and Penge
+3/31/2012,25,M,White or White British,1,27,M,Knife,Solved,51.37064,-0.10012,Croydon Central
+4/8/2012,37,M,White or White British,1,25,M,Other,Solved,51.50722,-0.10402,Bermondsey and Old Southwark
+4/9/2012,45,M,White or White British,2,25,M,Knife,Solved,51.52703,-0.19496,Westminster North
+4/16/2012,49,F,White or White British,2,40,M,Knife,Solved,51.40626,-0.25851,Richmond Park
+4/18/2012,55,M,White or White British,2,38,M,None,Solved,51.35582,-0.0211,Croydon Central
+4/30/2012,59,M,White or White British,1,58,M,Knife,Solved,51.54136,-0.10965,Islington South and Finsbury
+5/9/2012,1,F,White or White British,1,34,F,None,Solved,51.4532,-0.18357,Battersea
+5/9/2012,1,M,White or White British,1,34,F,None,Solved,51.4532,-0.18357,Battersea
+5/19/2012,25,M,White or White British,3,23,M,Knife,Solved,51.56508,-0.2375,Brent Central
+5/21/2012,47,M,White or White British,1,45,M,None,Solved,51.51593,-0.12144,Holborn and St Pancras
+5/21/2012,46,F,Black or Black British,1,48,M,Knife,Solved,51.59009,-0.07795,Tottenham
+5/21/2012,24,M,White or White British,1,29,M,None,Solved,51.42095,-0.15605,Tooting
+5/21/2012,36,M,Black or Black British,1,20,M,Knife,Solved,51.59318,0.00167,Chingford and Woodford Green
+5/25/2012,28,F,Asian or Asian British,1,34,M,None,Solved,51.52325,-0.01297,Bethnal Green and Bow
+5/28/2012,18,M,White or White British,5,26,M,None,Solved,51.6014,0.04419,Ilford North
+5/29/2012,20,M,Asian or Asian British,1,50,M,Knife,Solved,51.49796,-0.02022,Bethnal Green and Bow
+6/1/2012,36,M,White or White British,1,29,M,Knife,Solved,51.35742,-0.13382,Carshalton and Wallington
+6/4/2012,22,F,White or White British,1,27,M,None,Solved,51.56514,-0.11832,Islington North
+6/5/2012,21,M,White or White British,1,25,M,None,Solved,51.3622,0.11517,Orpington
+6/5/2012,28,M,Black or Black British,6,22,M,Knife,Solved,51.56137,-0.01259,Leyton and Wanstead
+6/6/2012,43,M,Any Other Ethnic Appearance,1,42,M,None,Solved,51.47947,0.05979,Greenwich and Woolwich
+6/8/2012,54,M,Asian or Asian British,2,33,M,Knife,Solved,51.49436,0.09583,Erith and Thamesmead
+6/12/2012,58,F,White or White British,1,28,M,None,Solved,51.4044,-0.30102,Kingston and Surbiton
+6/14/2012,1,M,Black or Black British,2,30,F,Other,Solved,51.47885,0.15947,Erith and Thamesmead
+6/17/2012,23,M,Black or Black British,1,28,M,Gun,Solved,51.4254,-0.02129,Lewisham West and Penge
+6/20/2012,32,M,Black or Black British,1,29,M,Gun,Solved,51.51253,-0.32613,Ealing North
+6/21/2012,46,M,Any Other Ethnic Appearance,1,26,M,Ligature,Solved,51.51311,-0.15892,Cities of London and Westminster
+6/24/2012,33,M,Black or Black British,1,25,M,Knife,Solved,51.51908,-0.10364,Cities of London and Westminster
+6/24/2012,45,M,White or White British,1,26,M,None,Solved,51.52239,-0.16958,Westminster North
+6/29/2012,24,M,Black or Black British,3,18,M,Knife,Solved,51.54081,0.00125,West Ham
+7/11/2012,21,M,Black or Black British,1,23,M,Knife,Solved,51.54612,-0.03124,Hackney South and Shoreditch
+7/15/2012,25,M,Asian or Asian British,2,18,M,Gun,Solved,51.40507,-0.08846,Croydon North
+7/22/2012,76,F,White or White British,,,,None,Unsolved,51.49997,0.09236,Erith and Thamesmead
+7/30/2012,66,M,White or White British,1,68,F,Other,Solved,51.57311,-0.12763,Islington North
+8/1/2012,16,M,Black or Black British,3,18,M,Knife,Unsolved,51.42723,0.01709,Lewisham East
+8/3/2012,12,F,White or White British,1,37,M,None,Solved,51.35661,-0.0173,Croydon Central
+8/7/2012,49,M,White or White British,1,50,M,None,Solved,51.48987,-0.14319,Cities of London and Westminster
+8/15/2012,79,F,White or White British,1,38,M,Knife,Solved,51.60168,-0.11281,Hornsey and Wood Green
+8/18/2012,44,M,White or White British,,,,Blunt Object,Solved,51.52633,0.07802,East Ham
+8/19/2012,18,M,White or White British,2,16,M,Knife,Solved,51.57219,-0.00837,Leyton and Wanstead
+8/21/2012,24,M,Black or Black British,2,26,M,Knife,Solved,51.42835,-0.13048,Streatham
+8/30/2012,40,M,White or White British,1,30,M,Knife,Solved,51.50115,-0.24415,Hammersmith
+8/30/2012,44,F,White or White British,3,48,M,Other,Solved,51.5138,-0.14243,Cities of London and Westminster
+8/31/2012,28,M,,1,20,M,Blunt Object,Solved,51.60232,0.08416,Ilford North
+9/3/2012,58,M,White or White British,1,45,F,Knife,Solved,51.6113,-0.07087,Edmonton
+9/7/2012,47,M,Black or Black British,1,46,M,Knife,Solved,51.47512,-0.05699,Camberwell and Peckham
+9/10/2012,1,F,,1,38,F,Other,Solved,51.441,-0.13976,Tooting
+9/13/2012,26,M,Black or Black British,4,22,M,Knife,Solved,51.56383,-0.27186,Brent North
+9/15/2012,14,M,Black or Black British,1,17,M,Knife,Solved,51.45427,0.01171,Lewisham East
+9/26/2012,21,M,Black or Black British,1,16,M,Knife,Solved,51.48722,-0.08471,Bermondsey and Old Southwark
+9/27/2012,15,M,Black or Black British,2,14,M,Knife,Solved,51.46872,-0.10594,Dulwich and West Norwood
+9/29/2012,32,F,White or White British,1,30,M,Knife,Solved,51.54425,-0.26845,Brent Central
+10/4/2012,23,M,White or White British,1,19,M,Knife,Solved,51.59444,-0.1089,Hornsey and Wood Green
+10/11/2012,49,M,White or White British,1,44,M,Knife,Solved,51.47324,-0.07799,Camberwell and Peckham
+10/20/2012,28,M,Black or Black British,,,,Knife,Unsolved,51.62875,-0.04315,Edmonton
+10/20/2012,20,M,Black or Black British,1,24,M,Knife,Solved,51.4312,0.05507,Eltham
+10/25/2012,65,M,,1,27,M,Knife,Solved,51.46977,-0.2102,Chelsea and Fulham
+10/25/2012,77,F,White or White British,1,20,M,None,Solved,51.48698,-0.30297,Brentford and Isleworth
+10/25/2012,20,M,Black or Black British,4,22,M,Knife,Solved,51.41094,-0.30393,Kingston and Surbiton
+10/28/2012,46,M,Asian or Asian British,1,20,M,Knife,Solved,51.5783,-0.02421,Walthamstow
+11/3/2012,29,M,Black or Black British,5,24,M,Knife,Solved,51.56662,0.08385,Ilford South
+11/7/2012,49,M,White or White British,,,,None,Unsolved,51.40403,0.00692,Bromley and Chislehurst
+11/10/2012,73,M,White or White British,1,20,M,Knife,Solved,51.47134,-0.1894,Chelsea and Fulham
+11/11/2012,22,M,Black or Black British,8,24,M,Blunt Object,Solved,51.45792,-0.01315,"Lewisham, Deptford"
+11/11/2012,20,M,White or White British,1,21,M,None,Solved,51.4261,-0.33026,Twickenham
+11/14/2012,16,M,White or White British,1,35,M,None,Solved,51.57557,0.03049,Leyton and Wanstead
+11/19/2012,35,M,Black or Black British,12,32,M,Gun,Solved,51.49099,0.05934,Greenwich and Woolwich
+11/20/2012,85,F,White or White British,2,15,M,None,Solved,51.53132,-0.35348,Ealing North
+11/22/2012,34,F,White or White British,1,34,M,None,Solved,51.54562,-0.04338,Hackney South and Shoreditch
+11/26/2012,56,M,Black or Black British,1,33,M,Blunt Object,Solved,51.5019,-0.27631,Ealing Central and Acton
+12/7/2012,42,M,White or White British,1,22,M,None,Solved,51.52698,-0.13194,Holborn and St Pancras
+12/9/2012,30,M,White or White British,1,22,M,Ligature,Solved,51.48564,-0.10185,Bermondsey and Old Southwark
+12/9/2012,46,M,White or White British,1,28,M,None,Unsolved,51.46817,-0.22317,Putney
+12/13/2012,60,M,White or White British,1,18,M,None,Solved,51.54187,-0.1825,Hampstead and Kilburn
+12/13/2012,35,M,White or White British,1,38,M,Knife,Solved,51.49082,-0.21568,Hammersmith
+12/16/2012,36,M,White or White British,2,42,M,None,Solved,51.61634,0.21929,Hornchurch and Upminster
+12/19/2012,49,M,,,,,None,Unsolved,51.56722,-0.13355,Islington North
+12/20/2012,25,F,White or White British,1,28,M,Knife,Solved,51.36914,-0.10679,Croydon South
+12/22/2012,26,M,Black or Black British,1,20,M,Knife,Solved,51.54935,-0.20896,Brent Central
+12/22/2012,50,M,Black or Black British,1,36,M,Knife,Solved,51.51893,-0.02075,Bethnal Green and Bow
+12/27/2012,86,F,White or White British,1,49,M,Other,Solved,51.46335,-0.17961,Battersea
+12/28/2012,67,F,White or White British,1,62,F,Ligature,Solved,51.50303,-0.29599,Ealing Central and Acton
+12/30/2012,23,M,Black or Black British,3,23,M,Knife,Solved,51.47181,-0.32746,Brentford and Isleworth
+12/30/2012,17,M,Any Other Ethnic Appearance,1,18,M,Knife,Solved,51.48587,-0.08506,Camberwell and Peckham
+1/2/2013,25,F,Black or Black British,1,30,M,None,Solved,51.3928,-0.12006,Croydon North
+1/3/2013,23,F,Black or Black British,1,37,M,Knife,Solved,51.67086,-0.01493,Enfield North
+1/7/2013,58,M,White or White British,,,,Other,Solved,51.53839,-0.39292,Ealing North
+1/7/2013,23,F,White or White British,1,27,M,None,Solved,51.43062,-0.1167,Streatham
+1/11/2013,37,M,White or White British,2,30,M,Blunt Object,Solved,51.60907,-0.03536,Edmonton
+1/12/2013,37,M,White or White British,2,51,M,Other,Unsolved,51.560187,-0.123436,Islington North
+1/13/2013,37,M,White or White British,3,38,M,None,Solved,51.424,-0.12906,Streatham
+1/18/2013,41,M,White or White British,1,38,M,None,Solved,51.55182,-0.05749,Hackney North and Stoke Newington
+1/19/2013,49,M,White or White British,1,45,M,Knife,Solved,51.52193,0.19652,Dagenham and Rainham
+1/22/2013,80,F,,1,69,M,Knife,Solved,51.60842,-0.17815,Finchley and Golders Green
+1/27/2013,16,M,Any Other Ethnic Appearance,5,19,M,Knife,Solved,51.48793,-0.14008,Cities of London and Westminster
+1/29/2013,36,M,White or White British,1,44,M,Knife,Solved,51.48348,0.06854,Greenwich and Woolwich
+2/4/2013,44,M,White or White British,1,29,M,None,Solved,51.57242,0.18391,Romford
+2/6/2013,79,F,White or White British,1,42,M,Knife,Solved,51.4428,-0.00616,Lewisham East
+2/11/2013,42,F,Any Other Ethnic Appearance,1,43,M,Knife,Solved,51.56453,-0.08403,Hackney North and Stoke Newington
+2/16/2013,19,M,Black or Black British,,,,Gun,Unsolved,51.55073,-0.05718,Hackney South and Shoreditch
+2/17/2013,16,M,Black or Black British,4,21,M,Knife,Solved,51.45436,-0.19486,Battersea
+2/22/2013,34,M,White or White British,2,36,M,Other,Solved,51.50489,-0.38324,"Ealing, Southall"
+3/2/2013,3,M,Black or Black British,1,43,M,None,Solved,51.42368,-0.01,Lewisham East
+3/4/2013,24,M,Black or Black British,1,24,M,None,Solved,51.41551,-0.19172,Wimbledon
+3/5/2013,60,M,White or White British,1,32,F,Vehicle,Solved,51.40373,0.01643,Bromley and Chislehurst
+3/8/2013,63,M,White or White British,1,36,M,None,Solved,51.50967,-0.15115,Cities of London and Westminster
+3/10/2013,20,M,Black or Black British,3,27,M,Knife,Solved,51.5846,-0.06695,Tottenham
+3/11/2013,3,M,Black or Black British,1,42,M,None,Solved,51.41694,-0.13878,Streatham
+3/13/2013,80,M,White or White British,1,43,M,None,Solved,51.52058,-0.14768,Cities of London and Westminster
+3/18/2013,30,F,Black or Black British,1,36,M,Knife,Solved,51.53347,0.13708,Dagenham and Rainham
+3/21/2013,45,M,White or White British,1,35,M,None,Solved,51.55738,-0.11387,Islington North
+4/1/2013,19,M,Black or Black British,3,20,M,Gun,Solved,51.62825,-0.05091,Edmonton
+4/12/2013,4,F,Asian or Asian British,1,34,F,Poison,Solved,51.57539,-0.42261,"Ruislip, Northwood and Pinner"
+4/12/2013,9,F,Asian or Asian British,1,34,F,Poison,Solved,51.57539,-0.42261,"Ruislip, Northwood and Pinner"
+4/14/2013,23,M,Black or Black British,2,26,M,Gun,Unsolved,51.46693,-0.09831,Dulwich and West Norwood
+4/18/2013,34,M,Any Other Ethnic Appearance,2,20,M,Gun,Solved,51.62892,-0.12764,"Enfield, Southgate"
+4/24/2013,16,M,Black or Black British,1,15,M,Knife,Solved,51.55012,-0.09522,Islington South and Finsbury
+4/27/2013,48,M,White or White British,1,52,M,Knife,Solved,51.45618,0.03403,Eltham
+5/4/2013,30,M,Black or Black British,3,29,M,Knife,Solved,51.56756,-0.05879,Hackney North and Stoke Newington
+5/9/2013,19,M,Black or Black British,,,,Gun,Unsolved,51.41043,-0.05269,Lewisham West and Penge
+5/9/2013,17,M,Black or Black British,2,19,M,Knife,Solved,51.54664,0.03468,West Ham
+5/14/2013,28,M,Black or Black British,,,,Blunt Object,Unsolved,51.56818,-0.27007,Brent North
+5/15/2013,63,F,White or White British,1,63,M,None,Solved,51.522,-0.11774,Holborn and St Pancras
+5/22/2013,25,M,White or White British,2,22,M,Knife,Solved,51.48755,0.05894,Greenwich and Woolwich
+5/24/2013,88,F,White or White British,1,17,M,None,Solved,51.51258,-0.05357,Poplar and Limehouse
+5/25/2013,55,M,White or White British,1,21,M,Blunt Object,Solved,51.40155,-0.19201,Wimbledon
+5/29/2013,82,F,White or White British,1,22,M,Other,Solved,51.47816,-0.02601,"Lewisham, Deptford"
+5/30/2013,55,M,White or White British,1,29,M,None,Solved,51.64467,-0.04011,Edmonton
+6/1/2013,76,F,White or White British,1,55,M,Other,Solved,51.52801,0.026,West Ham
+6/10/2013,35,M,White or White British,2,14,M,Other,Solved,51.36783,-0.10583,Croydon South
+6/10/2013,28,M,White or White British,1,44,M,Knife,Solved,51.38544,-0.26139,Kingston and Surbiton
+6/13/2013,68,M,Asian or Asian British,1,27,M,None,Solved,51.53937,0.05864,East Ham
+6/15/2013,56,M,White or White British,1,51,M,Knife,Solved,51.50482,0.11829,Erith and Thamesmead
+6/22/2013,42,M,White or White British,1,42,M,Knife,Solved,51.5222,-0.07085,Poplar and Limehouse
+6/29/2013,20,M,Black or Black British,2,19,M,Knife,Solved,51.53983,-0.12485,Holborn and St Pancras
+7/1/2013,40,F,White or White British,1,46,M,Knife,Solved,51.42877,-0.14253,Tooting
+7/4/2013,50,M,Black or Black British,1,47,M,None,Solved,51.46557,-0.10306,Dulwich and West Norwood
+7/6/2013,34,M,White or White British,1,30,M,None,Solved,51.53952,-0.10244,Islington South and Finsbury
+7/7/2013,37,F,Asian or Asian British,1,34,M,None,Solved,51.54432,0.02182,West Ham
+7/10/2013,35,F,Asian or Asian British,1,34,M,None,Solved,51.61742,-0.43943,"Ruislip, Northwood and Pinner"
+7/12/2013,47,M,Black or Black British,1,51,M,Knife,Solved,51.67016,-0.04206,Enfield North
+7/14/2013,51,M,White or White British,1,40,M,None,Solved,51.57898,-0.01158,Walthamstow
+7/17/2013,43,M,Asian or Asian British,,,,Poison,Solved,51.50284,-0.38346,"Ealing, Southall"
+7/19/2013,24,F,White or White British,1,48,M,Other,Solved,51.49004,-0.09387,Bermondsey and Old Southwark
+7/21/2013,25,F,White or White British,1,29,M,Other,Solved,51.6033,-0.20674,Hendon
+7/25/2013,50,M,Black or Black British,1,30,M,None,Solved,51.57298,0.01848,Leyton and Wanstead
+7/26/2013,32,M,White or White British,4,35,M,Knife,Solved,51.50861,-0.01508,Bethnal Green and Bow
+7/28/2013,47,M,Black or Black British,1,19,M,None,Solved,51.56347,-0.05861,Hackney North and Stoke Newington
+7/29/2013,28,F,Black or Black British,1,40,M,Knife,Solved,51.44762,-0.12317,Streatham
+7/31/2013,29,F,Black or Black British,1,38,M,Knife,Solved,51.58887,-0.03531,Walthamstow
+8/4/2013,27,F,Asian or Asian British,1,40,M,Knife,Solved,51.54367,0.04192,East Ham
+8/5/2013,33,M,White or White British,3,25,M,Knife,Solved,51.52766,0.06388,East Ham
+8/6/2013,21,M,Any Other Ethnic Appearance,3,19,M,Knife,Solved,51.51312,-0.30366,Ealing Central and Acton
+8/12/2013,17,M,Asian or Asian British,8,19,M,Knife,Solved,51.51516,-0.01176,Bethnal Green and Bow
+8/14/2013,21,F,White or White British,1,22,M,Knife,Solved,51.4579,-0.00414,Lewisham East
+8/20/2013,2,F,Any Other Ethnic Appearance,1,19,F,None,Solved,51.5754,-0.09518,Tottenham
+8/21/2013,20,M,Black or Black British,1,17,M,Knife,Solved,51.54707,-0.03707,Hackney South and Shoreditch
+8/24/2013,24,F,Black or Black British,3,22,M,Gun,Solved,51.54312,-0.19563,Hampstead and Kilburn
+8/26/2013,23,M,Asian or Asian British,,,,Other,Unsolved,51.50952,-0.36653,"Ealing, Southall"
+8/28/2013,51,M,White or White British,1,49,M,None,Solved,51.366936,-0.306381,Kingston and Surbiton
+8/29/2013,8,F,Asian or Asian British,1,34,F,None,Solved,51.56907,0.13095,Dagenham and Rainham
+9/1/2013,17,M,White or White British,1,17,M,None,Solved,51.39443,0.04325,Bromley and Chislehurst
+9/3/2013,77,F,White or White British,1,50,M,None,Solved,51.5801,0.22699,Hornchurch and Upminster
+9/3/2013,28,F,Asian or Asian British,1,33,M,None,Solved,51.56098,0.00019,Leyton and Wanstead
+9/11/2013,44,M,,1,42,M,Knife,Solved,51.58133,-0.09498,Tottenham
+9/13/2013,43,F,Asian or Asian British,1,64,M,Knife,Solved,51.5523,0.02182,West Ham
+9/20/2013,19,M,Black or Black British,2,23,M,Gun,Solved,51.46914,-0.1717,Battersea
+9/25/2013,17,M,Black or Black British,1,16,M,Knife,Solved,51.38452,-0.12364,Croydon North
+10/4/2013,1,F,Black or Black British,1,18,F,None,Solved,51.51942,-0.02838,Poplar and Limehouse
+10/5/2013,69,F,Asian or Asian British,1,42,M,None,Solved,51.647,-0.22173,Chipping Barnet
+10/5/2013,63,M,Asian or Asian British,1,66,M,Poison,Solved,51.59487,0.0543,Ilford North
+10/7/2013,43,M,Asian or Asian British,1,76,M,Knife,Solved,51.53229,-0.11717,Islington North
+10/14/2013,45,M,Asian or Asian British,6,26,M,Vehicle,Solved,51.52141,0.09678,East Ham
+10/16/2013,49,M,White or White British,1,50,M,Knife,Solved,51.47096,-0.18705,Chelsea and Fulham
+10/17/2013,21,M,White or White British,1,30,M,Knife,Solved,51.46227,-0.16531,Battersea
+10/18/2013,64,F,Any Other Ethnic Appearance,1,31,M,Other,Solved,51.56184,-0.24805,Brent Central
+10/28/2013,6,M,White or White British,1,34,M,None,Solved,51.34878,-0.19596,Sutton and Cheam
+10/29/2013,24,F,White or White British,1,20,M,Knife,Solved,51.54846,0.08479,Ilford South
+11/3/2013,33,M,Black or Black British,1,22,M,Knife,Solved,51.52702,-0.26186,Ealing Central and Acton
+11/7/2013,50,M,White or White British,1,37,M,None,Solved,51.54877,-0.05619,Hackney South and Shoreditch
+11/12/2013,20,F,White or White British,1,33,M,None,Solved,51.3506,-0.01958,Croydon Central
+11/15/2013,32,M,White or White British,,,,Other,Unsolved,51.32012,-0.06255,Croydon South
+11/20/2013,27,M,,1,58,M,Vehicle,Solved,51.54135,-0.09408,Islington South and Finsbury
+11/20/2013,73,F,White or White British,1,61,M,Ligature,Solved,51.46336,-0.15605,Battersea
+11/29/2013,35,F,Asian or Asian British,1,36,M,None,Solved,51.50013,-0.39075,"Ealing, Southall"
+11/29/2013,34,M,White or White British,3,33,M,Knife,Solved,51.50347,-0.09152,Bermondsey and Old Southwark
+11/30/2013,43,F,White or White British,1,23,F,None,Solved,51.4661,-0.29337,Richmond Park
+12/2/2013,22,M,Black or Black British,2,19,M,Knife,Unsolved,51.5618,-0.08018,Hackney North and Stoke Newington
+12/3/2013,17,M,Black or Black British,3,18,M,Knife,Solved,51.61429,-0.12573,"Enfield, Southgate"
+12/6/2013,20,M,Black or Black British,,,,Gun,Unsolved,51.54894,-0.25985,Brent Central
+12/10/2013,61,F,White or White British,1,33,M,None,Solved,51.44602,-0.21883,Putney
+12/16/2013,54,M,Black or Black British,6,19,M,None,Solved,51.46941,-0.11581,Dulwich and West Norwood
+12/17/2013,31,M,White or White British,1,24,F,Knife,Solved,51.5768,0.11839,Ilford South
+12/19/2013,43,F,White or White British,1,43,M,None,Solved,51.60199,-0.11591,Hornsey and Wood Green
+12/21/2013,74,F,Asian or Asian British,1,35,M,Knife,Solved,51.53099,-0.17668,Westminster North
+12/26/2013,31,M,Asian or Asian British,2,32,M,Gun,Unsolved,51.5132,-0.12929,Cities of London and Westminster
+12/29/2013,33,F,Black or Black British,1,37,M,Knife,Solved,51.53096,-0.37714,Ealing North
+1/9/2014,1,M,Asian or Asian British,1,33,F,None,Solved,51.58544,-0.30352,Harrow East
+1/9/2014,5,M,Asian or Asian British,1,33,F,None,Solved,51.58544,-0.30352,Harrow East
+1/28/2014,27,F,White or White British,1,28,M,Knife,Solved,51.54594,0.03957,East Ham
+1/31/2014,48,F,Any Other Ethnic Appearance,1,39,M,Blunt Object,Solved,51.49033,-0.19584,Kensington
+2/3/2014,19,M,Asian or Asian British,1,19,M,Knife,Solved,51.52486,-0.16849,Westminster North
+2/7/2014,24,M,White or White British,4,17,M,Knife,Solved,51.54188,-0.39613,Ealing North
+2/7/2014,22,M,Black or Black British,4,18,M,Knife,Solved,51.47267,-0.12062,Vauxhall
+2/11/2014,73,M,Asian or Asian British,,,,None,Unsolved,51.43009,-0.16922,Tooting
+2/12/2014,43,F,Asian or Asian British,1,15,M,Knife,Solved,51.5338,-0.03626,Bethnal Green and Bow
+2/18/2014,29,M,Asian or Asian British,2,16,M,Knife,Solved,51.53507,0.03534,East Ham
+2/20/2014,46,M,White or White British,4,17,M,Knife,Solved,51.4946,-0.42013,Hayes and Harlington
+2/27/2014,20,M,Black or Black British,2,21,M,Knife,Solved,51.46616,-0.11195,Dulwich and West Norwood
+3/1/2014,20,M,Black or Black British,4,19,M,Knife,Solved,51.56129,0.01363,Leyton and Wanstead
+3/1/2014,21,M,Black or Black British,4,19,M,Knife,Solved,51.56129,0.01363,Leyton and Wanstead
+3/2/2014,71,M,White or White British,1,30,M,Other,Solved,51.41406,0.01795,Bromley and Chislehurst
+3/13/2014,39,M,White or White British,3,35,M,None,Solved,51.55676,0.15157,Dagenham and Rainham
+3/15/2014,37,M,White or White British,3,21,M,None,Solved,51.39773,-0.0759,Croydon North
+3/16/2014,55,M,White or White British,1,20,M,Knife,Solved,51.5818,-0.29333,Brent Central
+3/19/2014,42,F,Black or Black British,1,46,M,Knife,Solved,51.59655,-0.07437,Tottenham
+3/23/2014,15,F,Black or Black British,1,15,M,Gun,Solved,51.54977,-0.02353,Hackney South and Shoreditch
+3/24/2014,22,M,Asian or Asian British,2,33,M,Knife,Solved,51.54081,0.00125,West Ham
+3/24/2014,56,M,Any Other Ethnic Appearance,3,28,M,None,Solved,51.51215,0.03729,West Ham
+3/31/2014,45,F,Black or Black British,1,53,M,None,Solved,51.55437,-0.03411,Hackney North and Stoke Newington
+3/31/2014,1,F,Black or Black British,1,53,M,None,Solved,51.55437,-0.03411,Hackney North and Stoke Newington
+4/11/2014,60,F,White or White British,1,67,M,Knife,Solved,51.52621,-0.08566,Hackney South and Shoreditch
+4/22/2014,3,M,White or White British,1,42,F,None,Solved,51.39464,-0.26149,Kingston and Surbiton
+4/22/2014,3,M,White or White British,1,42,F,None,Solved,51.39464,-0.26149,Kingston and Surbiton
+4/22/2014,4,F,White or White British,1,42,F,None,Solved,51.39464,-0.26149,Kingston and Surbiton
+4/22/2014,49,M,White or White British,1,36,M,Knife,Solved,51.46953,-0.26664,Richmond Park
+4/22/2014,39,M,Black or Black British,2,15,M,Knife,Solved,51.4595,-0.24036,Putney
+4/24/2014,52,M,White or White British,1,23,M,Knife,Solved,51.34945,-0.04295,Croydon Central
+4/27/2014,51,M,White or White British,2,32,M,None,Solved,51.57877,-0.07414,Tottenham
+5/6/2014,17,M,Asian or Asian British,1,16,M,Knife,Solved,51.44727,-0.12164,Streatham
+5/6/2014,18,M,Black or Black British,5,16,M,Knife,Solved,51.41518,-0.36755,Twickenham
+5/7/2014,75,M,Asian or Asian British,1,48,F,None,Solved,51.5196,-0.14997,Cities of London and Westminster
+5/8/2014,79,M,Asian or Asian British,1,28,M,None,Solved,51.50603,-0.45473,Hayes and Harlington
+5/9/2014,67,F,White or White British,1,44,M,Knife,Solved,51.54651,-0.13815,Holborn and St Pancras
+5/16/2014,49,M,White or White British,2,31,M,Knife,Solved,51.65305,-0.1825,Chipping Barnet
+5/16/2014,43,M,White or White British,1,46,M,Poison,Solved,51.41076,-0.29906,Kingston and Surbiton
+5/18/2014,25,M,Black or Black British,7,28,M,Knife,Solved,51.56762,0.14157,Dagenham and Rainham
+5/27/2014,38,F,Asian or Asian British,1,41,M,Other,Solved,51.55408,-0.35222,Ealing North
+5/29/2014,42,F,White or White British,2,49,M,Knife,Solved,51.5563,-0.24833,Brent Central
+5/31/2014,18,M,Black or Black British,9,17,M,Knife,Solved,51.43107,-0.06657,Lewisham West and Penge
+6/1/2014,20,F,White or White British,1,47,F,Knife,Unsolved,51.61086,-0.06716,Edmonton
+6/8/2014,24,M,Black or Black British,3,17,M,Knife,Solved,51.55435,-0.10527,Islington South and Finsbury
+6/15/2014,30,M,White or White British,3,22,M,None,Solved,51.49046,-0.12258,Vauxhall
+6/19/2014,23,M,White or White British,1,40,M,Poison,Solved,51.53462,0.08003,East Ham
+6/29/2014,23,M,White or White British,1,20,M,None,Solved,51.47218,0.18217,Bexleyheath and Crayford
+6/29/2014,19,M,Black or Black British,3,18,M,Knife,Solved,51.54063,-0.24573,Brent Central
+6/30/2014,67,M,White or White British,2,32,M,Knife,Solved,51.56214,-0.17639,Hampstead and Kilburn
+7/3/2014,38,M,White or White British,5,20,M,Knife,Solved,51.5928,-0.2198,Hendon
+7/3/2014,74,M,Any Other Ethnic Appearance,3,38,M,None,Unsolved,51.53134,-0.07578,Hackney South and Shoreditch
+7/13/2014,22,M,Black or Black British,5,18,M,Knife,Solved,51.4179,0.00068,Lewisham East
+7/25/2014,55,M,White or White British,1,52,M,Knife,Solved,51.56204,0.04597,East Ham
+8/10/2014,26,M,White or White British,2,17,M,Knife,Solved,51.45403,0.02268,Eltham
+8/13/2014,25,M,Black or Black British,3,24,M,Knife,Solved,51.44467,-0.19157,Tooting
+8/18/2014,19,M,White or White British,2,19,M,Knife,Solved,51.54255,-0.05199,Hackney South and Shoreditch
+8/20/2014,38,M,Asian or Asian British,3,33,M,Knife,Solved,51.37494,-0.0594,Croydon Central
+8/26/2014,24,M,Black or Black British,1,26,M,Knife,Solved,51.39256,-0.09395,Croydon Central
+8/28/2014,22,M,White or White British,1,40,M,Poison,Solved,51.53716,0.07503,East Ham
+8/28/2014,14,F,White or White British,1,41,M,None,Solved,51.49546,-0.32421,"Ealing, Southall"
+8/30/2014,59,M,Black or Black British,2,21,M,Knife,Solved,51.51703,-0.20589,Kensington
+9/1/2014,1,M,,1,33,F,None,Solved,51.58572,-0.09418,Tottenham
+9/3/2014,26,F,White or White British,1,48,M,Knife,Solved,51.58645,-0.02368,Walthamstow
+9/4/2014,82,F,White or White British,1,25,M,Knife,Solved,51.6343,-0.04444,Edmonton
+9/4/2014,51,M,White or White British,1,26,M,Blunt Object,Solved,51.6579,-0.03982,Enfield North
+9/7/2014,53,M,White or White British,1,52,M,Vehicle,Solved,51.41074,-0.35303,Twickenham
+9/12/2014,21,M,Black or Black British,3,30,M,Gun,Solved,51.47005,-0.14794,Battersea
+9/18/2014,42,M,Asian or Asian British,2,30,M,None,Solved,51.54577,-0.44171,Uxbridge and South Ruislip
+9/20/2014,21,M,White or White British,1,40,M,Poison,Solved,51.53716,0.07503,East Ham
+9/22/2014,1,M,,1,31,F,Other,Solved,51.60814,-0.28836,Harrow East
+10/4/2014,31,M,Black or Black British,4,18,M,Knife,Solved,51.55353,-0.3624,Ealing North
+10/14/2014,25,M,Black or Black British,4,21,M,Knife,Solved,51.49588,0.12616,Erith and Thamesmead
+10/31/2014,22,M,Black or Black British,2,21,M,Knife,Solved,51.59213,-0.23205,Hendon
+10/31/2014,23,F,White or White British,1,27,M,Knife,Solved,51.56589,0.07185,Ilford South
+10/31/2014,18,M,Black or Black British,2,20,M,Knife,Solved,51.49978,-0.09006,Bermondsey and Old Southwark
+11/1/2014,32,F,White or White British,1,38,M,Gun,Solved,51.55587,-0.1147,Islington North
+11/21/2014,24,M,White or White British,1,58,M,Blunt Object,Solved,51.48571,-0.0346,"Lewisham, Deptford"
+11/24/2014,18,M,White or White British,4,21,M,Gun,Solved,51.4915,-0.05593,Bermondsey and Old Southwark
+11/29/2014,77,M,White or White British,1,31,F,Knife,Solved,51.50319,0.0467,East Ham
+11/30/2014,23,M,Black or Black British,3,20,M,Knife,Solved,51.62178,-0.07494,Edmonton
+12/2/2014,52,M,White or White British,1,62,M,None,Solved,51.61624,-0.06395,Edmonton
+12/3/2014,26,F,Asian or Asian British,1,37,M,None,Solved,51.56102,0.09956,Ilford South
+12/6/2014,15,M,Black or Black British,2,20,M,Knife,Unsolved,51.52608,-0.07134,Poplar and Limehouse
+12/12/2014,70,M,White or White British,1,44,M,Knife,Solved,51.50811,-0.13663,Cities of London and Westminster
+12/14/2014,53,M,White or White British,5,13,M,Knife,Solved,51.62452,-0.06053,Edmonton
+12/18/2014,45,F,Black or Black British,1,48,M,Knife,Solved,51.56188,-0.36833,Harrow West
+12/19/2014,33,M,White or White British,3,22,M,Knife,Unsolved,51.49056,-0.15307,Cities of London and Westminster
+12/27/2014,40,F,Black or Black British,1,34,M,Knife,Solved,51.51614,-0.07254,Poplar and Limehouse
+12/28/2014,57,M,Asian or Asian British,,,,Knife,Solved,51.55697,0.07691,Ilford South
+1/1/2015,71,M,Black or Black British,1,43,F,None,Unsolved,51.53493,-0.24733,Brent Central
+1/1/2015,43,M,White or White British,2,34,M,None,Solved,51.52381,-0.0202,Bethnal Green and Bow
+1/2/2015,47,M,White or White British,1,37,M,Blunt Object,Solved,51.53094,-0.11456,Islington North
+1/2/2015,51,M,Any Other Ethnic Appearance,1,37,M,Blunt Object,Solved,51.53094,-0.11456,Islington North
+1/3/2015,43,M,White or White British,1,29,M,None,Solved,51.50232,-0.11008,Vauxhall
+1/5/2015,41,M,Asian or Asian British,3,29,M,Knife,Solved,51.50282,-0.38948,"Ealing, Southall"
+1/6/2015,17,M,Black or Black British,4,17,M,Knife,Solved,51.54744,-0.04777,Hackney South and Shoreditch
+1/6/2015,34,F,White or White British,1,34,M,Knife,Solved,51.60603,-0.27599,Harrow East
+1/8/2015,18,M,Any Other Ethnic Appearance,1,16,M,Knife,Solved,51.52324,-0.1697,Westminster North
+1/9/2015,18,M,Black or Black British,2,19,M,Knife,Solved,51.60738,-0.10539,Hornsey and Wood Green
+1/26/2015,1,M,White or White British,1,26,M,None,Solved,51.60476,-0.0624,Tottenham
+1/29/2015,1,F,White or White British,1,31,F,None,Solved,51.49033,-0.19584,Kensington
+1/30/2015,17,M,Black or Black British,8,20,M,Knife,Solved,51.63753,-0.0843,"Enfield, Southgate"
+1/30/2015,42,F,Black or Black British,1,41,M,Knife,Solved,51.52646,-0.44778,Uxbridge and South Ruislip
+2/1/2015,24,M,Black or Black British,,,,Gun,Unsolved,51.49653,0.07924,Greenwich and Woolwich
+2/3/2015,38,M,Any Other Ethnic Appearance,,,,Gun,Unsolved,51.54067,-0.46126,Uxbridge and South Ruislip
+2/9/2015,60,F,White or White British,1,65,M,Knife,Solved,51.39623,-0.24539,Wimbledon
+2/13/2015,72,M,Any Other Ethnic Appearance,1,30,M,Knife,Solved,51.51831,-0.19952,Westminster North
+2/13/2015,59,F,Any Other Ethnic Appearance,1,30,M,None,Solved,51.51831,-0.19952,Westminster North
+2/16/2015,22,M,Any Other Ethnic Appearance,3,18,M,Knife,Solved,51.5454,-0.05075,Hackney South and Shoreditch
+2/24/2015,56,F,White or White British,1,63,M,Knife,Solved,51.46534,0.04079,Eltham
+2/24/2015,56,M,White or White British,,,,None,Unsolved,51.44495,-0.1137,Streatham
+2/24/2015,29,M,White or White British,2,43,M,Other,Solved,51.52242,0.04906,East Ham
+2/27/2015,15,M,White or White British,3,18,M,Knife,Solved,51.54342,-0.11748,Islington North
+2/27/2015,4,F,White or White British,1,36,F,Other,Solved,51.51564,-0.20397,Kensington
+2/27/2015,47,M,White or White British,1,36,F,Other,Solved,51.51564,-0.20397,Kensington
+3/7/2015,25,F,White or White British,1,22,M,Knife,Solved,51.49785,-0.43708,Hayes and Harlington
+3/9/2015,45,M,Any Other Ethnic Appearance,,,,Knife,Solved,51.59865,-0.06948,Tottenham
+3/17/2015,34,M,,2,27,M,Knife,Solved,51.61227,-0.10902,"Enfield, Southgate"
+3/24/2015,50,M,White or White British,1,54,M,Blunt Object,Solved,51.51185,-0.26538,Ealing Central and Acton
+3/28/2015,33,F,White or White British,1,23,M,None,Solved,51.47227,-0.20834,Chelsea and Fulham
+3/28/2015,57,M,White or White British,1,26,M,None,Solved,51.53085,0.04171,East Ham
+4/7/2015,48,M,Any Other Ethnic Appearance,2,36,M,Gun,Solved,51.56818,-0.27007,Brent North
+4/16/2015,34,M,White or White British,1,43,M,Knife,Solved,51.57069,-0.02436,Walthamstow
+4/21/2015,20,M,Black or Black British,,,,Gun,Unsolved,51.47769,-0.07566,Camberwell and Peckham
+4/29/2015,40,M,White or White British,1,34,M,Knife,Solved,51.56302,-0.01078,Leyton and Wanstead
+5/4/2015,28,M,Black or Black British,1,23,M,None,Solved,51.54361,-0.14415,Holborn and St Pancras
+5/4/2015,66,M,,1,46,M,Blunt Object,Solved,51.45001,-0.17757,Tooting
+5/10/2015,23,F,White or White British,1,38,M,None,Solved,51.52172,-0.18598,Westminster North
+5/12/2015,13,F,Asian or Asian British,1,44,M,None,Solved,51.57263,0.12035,Ilford South
+5/12/2015,13,F,Asian or Asian British,1,44,M,None,Solved,51.57263,0.12035,Ilford South
+5/12/2015,37,F,Asian or Asian British,1,44,M,None,Solved,51.57263,0.12035,Ilford South
+6/1/2015,75,M,White or White British,1,30,M,Vehicle,Solved,51.42459,-0.15471,Tooting
+6/2/2015,18,M,Black or Black British,1,21,M,Knife,Solved,51.42498,-0.04952,Lewisham West and Penge
+6/5/2015,22,M,Black or Black British,,,,Knife,Unsolved,51.60562,-0.06055,Tottenham
+6/9/2015,53,M,Any Other Ethnic Appearance,2,40,M,None,Solved,51.57432,0.0021,Leyton and Wanstead
+6/10/2015,67,M,White or White British,1,36,F,None,Solved,51.54338,0.12406,Dagenham and Rainham
+6/10/2015,17,M,Black or Black British,2,16,M,Knife,Solved,51.54405,-0.09382,Islington South and Finsbury
+6/11/2015,65,F,White or White British,1,36,M,Knife,Solved,51.5497,0.01268,West Ham
+6/13/2015,20,M,White or White British,4,28,M,None,Solved,51.50202,-0.0751,Bermondsey and Old Southwark
+6/15/2015,45,M,,1,45,M,None,Unsolved,51.55171,-0.15883,Holborn and St Pancras
+6/17/2015,24,M,Black or Black British,1,23,M,Gun,Solved,51.46928,-0.11029,Dulwich and West Norwood
+6/19/2015,82,M,White or White British,1,35,M,Blunt Object,Solved,51.43324,0.13056,Old Bexley and Sidcup
+6/20/2015,26,M,Black or Black British,4,26,M,Knife,Solved,51.49198,0.11651,Erith and Thamesmead
+6/29/2015,55,M,Black or Black British,1,29,M,Knife,Solved,51.53422,-0.2466,Brent Central
+7/2/2015,20,M,Black or Black British,2,23,M,Gun,Solved,51.55223,-0.30258,Brent North
+7/3/2015,54,F,White or White British,1,22,M,None,Solved,51.50233,-0.09996,Bermondsey and Old Southwark
+7/8/2015,81,F,White or White British,1,45,M,Blunt Object,Solved,51.45782,0.00224,Lewisham East
+7/10/2015,42,M,Any Other Ethnic Appearance,,,,Gun,Unsolved,51.59886,-0.10297,Hornsey and Wood Green
+7/19/2015,28,M,Black or Black British,3,18,M,Knife,Solved,51.6718,-0.04883,Enfield North
+7/27/2015,38,F,Black or Black British,,,,Blunt Object,Solved,51.541,-0.25639,Brent Central
+7/30/2015,25,F,White or White British,1,26,M,Knife,Solved,51.53598,0.04408,East Ham
+8/2/2015,35,F,White or White British,1,48,F,Knife,Unsolved,51.47951,-0.18024,Chelsea and Fulham
+8/8/2015,39,M,Black or Black British,,,,Gun,Unsolved,51.52448,-0.08029,Hackney South and Shoreditch
+8/8/2015,17,M,Black or Black British,1,29,M,Vehicle,Solved,51.46841,-0.10151,Dulwich and West Norwood
+8/10/2015,24,M,Black or Black British,6,22,M,Knife,Solved,51.48069,0.07101,Greenwich and Woolwich
+8/13/2015,34,F,White or White British,1,40,M,None,Solved,51.49452,-0.39373,Feltham and Heston
+8/14/2015,31,F,Black or Black British,1,23,M,None,Solved,51.58655,-0.36799,Harrow West
+8/19/2015,40,M,White or White British,1,52,M,Other,Solved,51.52468,-0.05388,Poplar and Limehouse
+8/23/2015,79,M,Asian or Asian British,1,31,M,Knife,Solved,51.53189,-0.05474,Poplar and Limehouse
+8/31/2015,35,M,White or White British,1,23,M,Knife,Solved,51.61121,-0.12933,"Enfield, Southgate"
+9/3/2015,17,M,Black or Black British,2,15,M,Knife,Solved,51.45773,-0.04187,"Lewisham, Deptford"
+9/3/2015,36,M,Black or Black British,1,31,M,None,Solved,51.51977,-0.04104,Bethnal Green and Bow
+9/4/2015,17,M,Black or Black British,7,21,M,Knife,Solved,51.5312,-0.08291,Hackney South and Shoreditch
+9/5/2015,53,F,White or White British,1,50,M,Knife,Solved,51.55356,0.07117,Ilford South
+9/5/2015,86,M,White or White British,1,50,M,Knife,Solved,51.55356,0.07117,Ilford South
+9/14/2015,25,M,White or White British,1,40,M,Poison,Solved,51.53716,0.07503,East Ham
+9/14/2015,16,M,Black or Black British,8,20,M,Knife,Unsolved,51.49035,-0.10175,Bermondsey and Old Southwark
+9/14/2015,45,M,Asian or Asian British,1,43,M,Knife,Solved,51.5181,-0.06737,Poplar and Limehouse
+9/17/2015,25,F,Black or Black British,3,20,F,None,Solved,51.64353,-0.0617,Enfield North
+9/23/2015,29,M,White or White British,,,,None,Unsolved,51.48817,0.08665,Greenwich and Woolwich
+9/24/2015,46,M,White or White British,2,41,M,Other,Unsolved,51.54651,-0.10581,Islington South and Finsbury
+9/26/2015,25,M,Black or Black British,1,27,M,Gun,Solved,51.55622,-0.04613,Hackney North and Stoke Newington
+9/26/2015,17,M,White or White British,,,,Other,Unsolved,51.46023,-0.04195,"Lewisham, Deptford"
+9/29/2015,47,M,Black or Black British,1,48,M,Other,Solved,51.66724,-0.04377,Enfield North
+10/8/2015,44,F,Asian or Asian British,1,34,M,None,Solved,51.55305,-0.22422,Brent Central
+10/11/2015,21,M,White or White British,1,27,M,Knife,Unsolved,51.57586,-0.39686,"Ruislip, Northwood and Pinner"
+10/12/2015,55,M,White or White British,1,25,M,Other,Solved,51.64598,-0.19381,Chipping Barnet
+10/16/2015,17,M,Black or Black British,2,16,M,Knife,Solved,51.50708,-0.27387,Ealing Central and Acton
+10/18/2015,39,M,Black or Black British,1,18,M,Knife,Solved,51.54704,-0.05112,Hackney South and Shoreditch
+10/26/2015,49,M,White or White British,1,34,M,Knife,Unsolved,51.5501,0.07492,Ilford South
+10/28/2015,53,M,White or White British,1,17,M,None,Solved,51.5419,-0.00337,West Ham
+10/29/2015,49,F,Any Other Ethnic Appearance,1,53,M,Knife,Solved,51.55702,-0.21808,Brent Central
+11/8/2015,17,M,Black or Black British,7,21,M,Knife,Solved,51.57989,-0.29273,Brent North
+11/8/2015,21,M,Black or Black British,3,20,M,Knife,Solved,51.54962,-0.20649,Holborn and St Pancras
+11/9/2015,18,M,White or White British,3,32,M,Knife,Solved,51.56724,-0.4417,"Ruislip, Northwood and Pinner"
+11/11/2015,50,F,White or White British,1,22,M,Knife,Solved,51.53529,-0.46965,Uxbridge and South Ruislip
+11/15/2015,52,M,White or White British,1,46,M,None,Solved,51.55265,-0.10954,Islington South and Finsbury
+11/15/2015,26,M,White or White British,1,24,F,Knife,Solved,51.52712,-0.21289,Westminster North
+11/17/2015,34,M,White or White British,2,41,M,Knife,Solved,51.46564,0.18547,Bexleyheath and Crayford
+11/17/2015,35,M,White or White British,1,23,M,None,Solved,51.59291,-0.06262,Tottenham
+11/20/2015,48,F,White or White British,1,55,M,None,Solved,51.51264,-0.21909,Kensington
+11/23/2015,17,M,Any Other Ethnic Appearance,1,20,M,Knife,Solved,51.54795,-0.12066,Islington North
+11/25/2015,26,M,Asian or Asian British,8,25,M,Other,Solved,51.40673,-0.16428,Mitcham and Morden
+11/25/2015,21,M,White or White British,1,24,M,None,Solved,51.51137,-0.01023,Bethnal Green and Bow
+11/27/2015,1,M,Black or Black British,,,,Other,Solved,51.57618,-0.34547,Harrow West
+12/1/2015,17,M,Black or Black British,2,30,M,Knife,Solved,51.57044,-0.11102,Hornsey and Wood Green
+12/2/2015,48,F,Asian or Asian British,1,49,M,Knife,Solved,51.51952,-0.30589,Ealing Central and Acton
+12/3/2015,81,M,Asian or Asian British,1,44,M,None,Solved,51.59596,-0.31791,Harrow East
+12/7/2015,23,M,Black or Black British,3,24,M,Knife,Solved,51.5135,-0.08091,Cities of London and Westminster
+12/8/2015,24,F,White or White British,1,30,M,None,Unsolved,51.45707,-0.18178,Battersea
+12/11/2015,28,M,Black or Black British,,,,Gun,Solved,51.59904,-0.10606,Hornsey and Wood Green
+12/13/2015,4,M,Black or Black British,1,48,M,None,Solved,51.48548,0.16624,Erith and Thamesmead
+12/13/2015,8,M,Black or Black British,1,48,M,None,Solved,51.48548,0.16624,Erith and Thamesmead
+12/13/2015,43,F,Black or Black British,1,48,M,None,Solved,51.48548,0.16624,Erith and Thamesmead
+12/19/2015,22,F,Black or Black British,1,28,M,Knife,Solved,51.63584,-0.08615,"Enfield, Southgate"
+12/25/2015,60,M,Asian or Asian British,1,27,M,Knife,Solved,51.55163,0.01933,West Ham
+12/26/2015,64,M,White or White British,1,52,M,Knife,Solved,51.43944,0.04539,Eltham
+12/29/2015,39,M,White or White British,1,45,M,None,Solved,51.49041,0.07491,Greenwich and Woolwich
+12/29/2015,41,M,White or White British,1,22,M,Knife,Solved,51.55102,-0.12942,Islington North
+1/9/2016,16,M,Black or Black British,1,16,M,Knife,Solved,51.60888,0.05038,Ilford North
+1/10/2016,60,M,White or White British,1,31,M,Knife,Solved,51.56172,0.22096,Hornchurch and Upminster
+1/12/2016,28,M,White or White British,1,39,M,None,Solved,51.55101,0.03051,West Ham
+1/13/2016,55,M,White or White British,1,32,M,Knife,Solved,51.59192,-0.16315,Hendon
+1/19/2016,30,M,White or White British,3,37,M,Knife,Solved,51.40677,-0.19474,Wimbledon
+1/23/2016,21,M,Black or Black British,2,19,M,Knife,Solved,51.39338,-0.07774,Croydon North
+1/27/2016,44,M,Asian or Asian British,,,,Knife,Unsolved,51.52079,-0.42701,Hayes and Harlington
+1/31/2016,25,F,White or White British,1,31,M,Knife,Solved,51.53227,-0.09961,Islington South and Finsbury
+2/1/2016,27,M,Black or Black British,1,18,M,Knife,Solved,51.52764,0.02737,West Ham
+2/3/2016,32,M,White or White British,1,37,F,Knife,Solved,51.60562,-0.06055,Tottenham
+2/10/2016,41,M,White or White British,1,49,M,Other,Solved,51.38029,-0.24468,Sutton and Cheam
+2/19/2016,44,F,White or White British,1,19,M,Vehicle,Solved,51.52553,-0.08823,Islington South and Finsbury
+2/21/2016,78,F,White or White British,1,52,F,Ligature,Solved,51.47832,0.09043,Greenwich and Woolwich
+2/24/2016,1,M,Any Other Ethnic Appearance,1,42,M,None,Solved,51.5525,-0.1866,Hampstead and Kilburn
+3/2/2016,40,M,Any Other Ethnic Appearance,1,43,F,Knife,Solved,51.42538,-0.21899,Wimbledon
+3/5/2016,2,F,Asian or Asian British,1,25,M,None,Awaiting Outcome,51.541843,0.148113,Dagenham and Rainham
+3/9/2016,27,M,Black or Black British,4,22,M,Gun,Unsolved,51.54674,-0.25006,Brent Central
+3/11/2016,42,F,White or White British,1,41,M,Knife,Solved,51.66584,-0.01448,Enfield North
+3/14/2016,20,M,Black or Black British,1,17,M,Knife,Solved,51.39867,-0.09574,Croydon North
+3/16/2016,25,M,White or White British,1,25,M,Knife,Solved,51.53689,-0.37,Ealing North
+3/17/2016,61,M,White or White British,1,46,M,None,Solved,51.581,0.16878,Romford
+3/19/2016,29,M,White or White British,1,22,M,Knife,Solved,51.51862,0.02537,West Ham
+3/23/2016,29,F,White or White British,1,33,M,Knife,Solved,51.3863,-0.07623,Croydon Central
+3/29/2016,21,M,Black or Black British,4,21,M,Knife,Solved,51.61988,-0.18328,Chipping Barnet
+4/1/2016,59,M,White or White British,1,49,M,Other,Solved,51.50472,-0.09698,Bermondsey and Old Southwark
+4/3/2016,17,M,Black or Black British,3,15,M,Knife,Solved,51.47755,-0.04581,"Lewisham, Deptford"
+4/5/2016,46,M,Asian or Asian British,1,22,M,Knife,Solved,51.59019,-0.20175,Finchley and Golders Green
+4/9/2016,56,M,White or White British,1,62,M,None,Unsolved,51.49692,-0.12938,Cities of London and Westminster
+4/10/2016,28,M,Black or Black British,1,22,M,Knife,Solved,51.45849,-0.33388,Brentford and Isleworth
+4/18/2016,20,M,Black or Black British,,,,Knife,Unsolved,51.42307,-0.14469,Tooting
+5/5/2016,21,M,Black or Black British,6,23,M,Knife,Unsolved,51.4614,-0.01309,"Lewisham, Deptford"
+5/12/2016,68,M,Black or Black British,1,40,M,Knife,Solved,51.36283,-0.0989,Croydon South
+5/14/2016,24,M,Black or Black British,1,25,M,Gun,Unsolved,51.57077,-0.01599,Walthamstow
+5/18/2016,46,F,Black or Black British,1,56,M,Knife,Solved,51.54772,-0.15643,Holborn and St Pancras
+5/29/2016,37,M,Black or Black British,,,,Knife,Unsolved,51.53839,-0.14111,Holborn and St Pancras
+6/8/2016,49,M,Any Other Ethnic Appearance,2,46,M,None,Solved,51.54985,-0.06931,Hackney South and Shoreditch
+6/12/2016,24,M,Black or Black British,1,21,M,Blunt Object,Solved,51.54832,-0.23776,Brent Central
+6/16/2016,48,M,White or White British,1,40,M,None,Solved,51.5299,0.08325,East Ham
+6/20/2016,50,F,White or White British,1,50,M,Knife,Solved,51.47779,-0.19765,Chelsea and Fulham
+6/21/2016,18,M,Black or Black British,,,,Knife,Unsolved,51.46962,-0.16809,Battersea
+6/30/2016,32,F,White or White British,,,,None,Unsolved,51.5487,-0.15265,Holborn and St Pancras
+7/3/2016,17,M,Black or Black British,4,15,M,Knife,Solved,51.51703,-0.20589,Kensington
+7/5/2016,1,M,Asian or Asian British,2,36,M,None,Solved,51.51187,-0.00906,Bethnal Green and Bow
+7/21/2016,20,M,Black or Black British,1,20,M,Knife,Solved,51.53669,0.00626,West Ham
+7/29/2016,31,M,Black or Black British,,,,Knife,Unsolved,51.53325,-0.04135,Bethnal Green and Bow
+7/31/2016,33,M,Asian or Asian British,3,29,M,Knife,Unsolved,51.51675,-0.38117,"Ealing, Southall"
+8/1/2016,48,M,Any Other Ethnic Appearance,1,21,M,Knife,Solved,51.54142,-0.19736,Hampstead and Kilburn
+8/3/2016,64,F,White or White British,1,19,M,Knife,Solved,51.52175,-0.12589,Holborn and St Pancras
+8/3/2016,35,M,Any Other Ethnic Appearance,,,,Knife,Unsolved,51.46573,-0.17454,Battersea
+8/4/2016,19,M,Black or Black British,,,,Knife,Unsolved,51.48225,-0.05204,"Lewisham, Deptford"
+8/5/2016,16,M,Black or Black British,1,15,M,Knife,Solved,51.48071,-0.07204,Camberwell and Peckham
+8/7/2016,41,M,White or White British,1,38,M,Knife,Solved,51.57261,-0.25747,Brent North
+8/12/2016,44,F,White or White British,1,37,M,Knife,Solved,51.43456,0.02325,Lewisham East
+8/12/2016,62,M,White or White British,1,21,M,None,Solved,51.50727,-0.16573,Cities of London and Westminster
+8/15/2016,18,M,White or White British,1,18,M,Knife,Solved,51.52354,-0.41655,Hayes and Harlington
+8/16/2016,19,M,Black or Black British,4,19,M,Knife,Solved,51.34894,-0.05101,Croydon Central
+8/20/2016,25,M,Black or Black British,,,,Gun,Unsolved,51.57226,-0.12787,Islington North
+8/22/2016,26,M,Black or Black British,5,,,None,Awaiting Outcome,51.668363,-0.165375,"Enfield, Southgate"
+8/23/2016,25,M,White or White British,3,29,M,Knife,Solved,51.60738,-0.10539,Hornsey and Wood Green
+8/25/2016,25,M,Black or Black British,3,36,M,None,Solved,51.48739,-0.09757,Bermondsey and Old Southwark
+8/27/2016,23,M,White or White British,1,32,M,None,Solved,51.5147,-0.10413,Cities of London and Westminster
+8/28/2016,30,M,White or White British,1,31,M,None,Solved,51.46713,0.00673,Lewisham East
+8/29/2016,49,M,White or White British,2,26,M,None,Solved,51.44651,0.03519,Eltham
+8/31/2016,10,M,Black or Black British,1,27,M,Vehicle,Solved,51.41754,-0.04468,Lewisham West and Penge
+8/31/2016,34,F,Black or Black British,1,27,M,Vehicle,Solved,51.41754,-0.04468,Lewisham West and Penge
+9/5/2016,44,M,,1,23,M,Knife,Solved,51.59975,-0.10827,Hornsey and Wood Green
+9/11/2016,26,M,White or White British,2,32,M,Knife,Unsolved,51.52895,-0.06428,Poplar and Limehouse
+9/12/2016,25,M,Black or Black British,3,23,M,Knife,Solved,51.49095,0.03003,Greenwich and Woolwich
+9/13/2016,27,M,White or White British,2,19,M,Knife,Solved,51.5874,0.13605,Dagenham and Rainham
+9/15/2016,21,M,Black or Black British,,,,Gun,Unsolved,51.58963,-0.17438,Finchley and Golders Green
+9/15/2016,53,F,Black or Black British,,,,Gun,Unsolved,51.58963,-0.17438,Finchley and Golders Green
+9/17/2016,25,M,White or White British,2,27,F,Knife,Solved,51.50978,-0.33357,"Ealing, Southall"
+9/20/2016,1,M,Black or Black British,1,39,M,None,Awaiting Outcome,51.489678,0.084683,Greenwich and Woolwich
+9/21/2016,31,M,White or White British,1,29,M,Blunt Object,Solved,51.51137,-0.01023,Bethnal Green and Bow
+9/28/2016,33,M,Asian or Asian British,5,25,M,Knife,Solved,51.55588,0.15057,Dagenham and Rainham
+9/28/2016,1,F,Black or Black British,2,25,F,None,Solved,51.54054,-0.00922,West Ham
+10/3/2016,20,M,Asian or Asian British,3,21,M,Gun,Unsolved,51.5271,-0.06399,Poplar and Limehouse
+10/7/2016,22,M,Black or Black British,1,36,M,Gun,Unsolved,51.38099,-0.10933,Croydon North
+10/8/2016,31,M,White or White British,,,,None,Unsolved,51.59018,-0.01742,Walthamstow
+10/15/2016,18,M,Any Other Ethnic Appearance,1,19,M,Knife,Solved,51.5634,-0.26639,Brent North
+10/18/2016,21,M,Black or Black British,3,34,M,Knife,Unsolved,51.53099,-0.11068,Islington South and Finsbury
+10/22/2016,33,M,Black or Black British,1,25,M,Knife,Solved,51.59651,-0.11502,Hornsey and Wood Green
+10/22/2016,30,F,Asian or Asian British,1,24,M,None,Solved,51.47002,-0.4543,Hayes and Harlington
+10/25/2016,77,F,Black or Black British,1,55,F,Other,Solved,51.38315,-0.07934,Croydon Central
+10/26/2016,28,M,White or White British,4,18,M,Gun,Unsolved,51.50312,-0.24318,Hammersmith
+10/27/2016,19,M,Black or Black British,,,,Knife,Unsolved,51.56488,0.11031,Ilford South
+10/31/2016,22,M,Black or Black British,4,16,M,Knife,Solved,51.38487,-0.08954,Croydon North
+11/2/2016,22,M,Black or Black British,,,,Gun,Unsolved,51.54643,-0.25353,Brent Central
+11/10/2016,1,F,,1,32,M,None,Unsolved,51.505821,0.114284,Erith and Thamesmead
+11/12/2016,17,M,Black or Black British,3,16,M,Knife,Solved,51.5401,0.15336,Dagenham and Rainham
+11/14/2016,24,M,White or White British,,,,Knife,Unsolved,51.43405,0.15177,Old Bexley and Sidcup
+11/19/2016,33,M,Black or Black British,,,,Knife,Unsolved,51.47231,-0.08585,Camberwell and Peckham
+11/22/2016,5,M,Black or Black British,1,38,M,None,Solved,51.40817,-0.02581,Beckenham
+11/23/2016,41,F,Black or Black British,1,41,M,Knife,Solved,51.58544,-0.06418,Tottenham
+11/23/2016,19,M,Black or Black British,3,17,M,Knife,Solved,51.56328,-0.35526,Harrow West
+11/29/2016,28,M,Black or Black British,2,39,M,Gun,Unsolved,51.39298,-0.11357,Croydon North
+12/1/2016,18,M,Any Other Ethnic Appearance,1,19,M,Knife,Unsolved,51.52453,-0.25686,Ealing Central and Acton
+12/1/2016,64,M,Asian or Asian British,1,31,M,None,Solved,51.48745,-0.47555,Hayes and Harlington
+12/5/2016,24,M,Black or Black British,3,29,M,Gun,Solved,51.48224,-0.19787,Chelsea and Fulham
+12/8/2016,21,M,Black or Black British,3,16,M,Gun,Solved,51.54142,-0.19736,Hampstead and Kilburn
+12/12/2016,29,F,White or White British,1,34,M,None,Solved,51.51052,0.12886,Erith and Thamesmead
+12/14/2016,7,M,White or White British,1,37,F,None,Solved,51.57587,-0.42124,"Ruislip, Northwood and Pinner"
+12/15/2016,51,F,Black or Black British,1,62,M,Ligature,Solved,51.56303,-0.1406,Holborn and St Pancras
+12/19/2016,58,M,Black or Black British,1,21,M,Blunt Object,Solved,51.55723,0.14234,Dagenham and Rainham
+12/23/2016,55,M,White or White British,1,26,M,None,Unsolved,51.35332,-0.13097,Carshalton and Wallington
+12/27/2016,32,M,Black or Black British,2,19,M,Knife,Solved,51.50901,-0.12588,Cities of London and Westminster
+12/30/2016,24,M,Black or Black British,2,21,M,Knife,Solved,51.48147,-0.06951,Camberwell and Peckham
+1/10/2017,74,F,Black or Black British,,,,Arson,Awaiting Outcome,51.39172,-0.07186,Croydon Central
+1/20/2017,19,M,Black or Black British,3,20,M,Knife,Solved,51.5608,-0.2786,Brent Central
+1/21/2017,21,M,White or White British,1,29,M,Knife,Solved,51.43545,-0.15469,Tooting
+1/23/2017,15,M,Black or Black British,1,16,M,Knife,Solved,51.5375,-0.23251,Brent Central
+2/14/2017,51,M,White or White British,1,38,M,Knife,Solved,51.43929,-0.11504,Streatham
+2/15/2017,23,M,Any Other Ethnic Appearance,2,18,M,Knife,Solved,51.58987,-0.09588,Tottenham
+2/17/2017,21,M,Black or Black British,2,21,M,Knife,Solved,51.57767,-0.21413,Finchley and Golders Green
+2/24/2017,21,M,Black or Black British,4,17,M,Knife,Solved,51.43125,0.03538,Lewisham East
+2/28/2017,80,F,White or White British,1,40,M,None,Awaiting Outcome,51.59065,-0.2484,Hendon
+2/28/2017,34,M,Any Other Ethnic Appearance,1,26,M,Knife,Solved,51.59725,-0.33626,Harrow East
+3/1/2017,28,M,White or White British,3,22,M,Knife,Awaiting Outcome,51.53952,-0.10244,Islington South and Finsbury
+3/13/2017,38,F,Black or Black British,1,23,M,Knife,Solved,51.41424,-0.09035,Croydon North
+3/18/2017,1,M,White or White British,1,33,M,Blunt Object,Solved,51.56495,-0.10212,Hackney North and Stoke Newington
+3/19/2017,18,M,Black or Black British,,,,Gun,Unsolved,51.53364,0.08098,East Ham
+3/21/2017,19,M,Black or Black British,3,21,M,Gun,Solved,51.55428,0.07832,Ilford South
+3/22/2017,44,F,White or White British,1,52,M,Knife,Solved,51.50086,-0.12196,Cities of London and Westminster
+3/22/2017,48,M,White or White British,1,52,M,Knife,Solved,51.50086,-0.12196,Cities of London and Westminster
+3/22/2017,54,M,White or White British,1,52,M,Knife,Solved,51.50086,-0.12196,Cities of London and Westminster
+3/22/2017,75,M,White or White British,1,52,M,Knife,Solved,51.50086,-0.12196,Cities of London and Westminster
+3/22/2017,31,F,White or White British,1,52,M,Knife,Solved,51.50086,-0.12196,Cities of London and Westminster
+3/28/2017,27,M,Black or Black British,2,24,M,Knife,Solved,51.50176,-0.38608,"Ealing, Southall"
+3/28/2017,21,M,Black or Black British,3,20,M,Knife,Solved,51.47492,-0.16883,Battersea
+4/2/2017,21,M,Black or Black British,,,,Knife,Unsolved,51.50987,0.02624,West Ham
+4/3/2017,23,M,Black or Black British,,,,Knife,Unsolved,51.38555,-0.10832,Croydon North
+4/3/2017,68,M,White or White British,1,73,M,None,Unsolved,51.53521,-0.02763,Bethnal Green and Bow
+4/7/2017,16,M,Black or Black British,2,17,M,Gun,Unsolved,51.50008,0.0628,East Ham
+4/10/2017,24,M,Black or Black British,1,23,M,Knife,Solved,51.47677,0.10592,Erith and Thamesmead
+4/11/2017,19,M,Black or Black British,,,,Knife,Solved,51.55225,-0.35451,Ealing North
+4/11/2017,20,M,Black or Black British,3,16,M,Knife,Solved,51.52037,-0.0305,Poplar and Limehouse
+4/19/2017,19,M,Black or Black British,1,19,M,Knife,Solved,51.47372,0.02846,Eltham
+4/20/2017,53,M,White or White British,2,32,M,None,Awaiting Outcome,51.5077,-0.2786,Ealing Central and Acton
+4/22/2017,42,M,White or White British,3,17,M,Knife,Solved,51.65167,-0.03858,Enfield North
+4/23/2017,17,M,Black or Black British,4,18,M,Knife,Solved,51.46687,-0.17173,Battersea
+4/25/2017,24,M,Any Other Ethnic Appearance,3,21,M,Knife,Unsolved,51.45598,-0.1831,Battersea
+4/27/2017,60,M,White or White British,2,24,M,Knife,Solved,51.52081,-0.02767,Poplar and Limehouse
+4/28/2017,26,M,Black or Black British,1,22,M,Knife,Solved,51.46928,-0.07047,Camberwell and Peckham
+4/28/2017,48,M,White or White British,1,38,M,Knife,Solved,51.52083,-0.15921,Cities of London and Westminster
+5/2/2017,23,M,Black or Black British,1,20,M,Knife,Unsolved,51.64129,-0.13686,"Enfield, Southgate"
+5/5/2017,34,M,Black or Black British,1,33,M,Knife,Solved,51.53906,-0.2509,Brent Central
+5/6/2017,23,M,Black or Black British,2,23,M,Knife,Solved,51.54079,-0.48679,Uxbridge and South Ruislip
+5/6/2017,20,F,White or White British,1,23,M,Knife,Solved,51.51537,-0.03251,Poplar and Limehouse
+5/7/2017,17,M,Black or Black British,2,17,M,Knife,Solved,51.58349,-0.03183,Walthamstow
+5/13/2017,18,M,Black or Black British,,,,Knife,Awaiting Outcome,51.65518,-0.04555,Enfield North
+5/13/2017,41,M,Black or Black British,4,26,M,Gun,Solved,51.52529,-0.02115,Bethnal Green and Bow
+5/18/2017,20,M,Any Other Ethnic Appearance,3,19,M,Knife,Solved,51.57405,0.17858,Romford
+5/23/2017,45,M,Asian or Asian British,,,,Blunt Object,Unsolved,51.53334,-0.40832,Hayes and Harlington
+5/25/2017,33,F,White or White British,1,39,M,Knife,Solved,51.42633,-0.09702,Dulwich and West Norwood
+5/26/2017,20,F,Black or Black British,2,19,M,Gun,Unsolved,51.53085,-0.19795,Hampstead and Kilburn
+5/29/2017,54,M,Asian or Asian British,1,36,M,None,Solved,51.56377,0.11465,Ilford South
+5/29/2017,32,F,White or White British,1,28,M,Knife,Solved,51.52888,-0.20149,Westminster North
+6/1/2017,23,M,Any Other Ethnic Appearance,2,21,M,Vehicle,Solved,51.60425,-0.1734,Finchley and Golders Green
+6/2/2017,17,M,Black or Black British,2,18,M,Knife,Awaiting Outcome,51.47804,-0.08372,Camberwell and Peckham
+6/3/2017,39,M,White or White British,4,28,M,Knife,Solved,51.50544,-0.09106,Bermondsey and Old Southwark
+6/3/2017,28,F,White or White British,5,29,M,Knife,Solved,51.50544,-0.09106,Bermondsey and Old Southwark
+6/3/2017,21,F,White or White British,6,30,M,Knife,Solved,51.50544,-0.09106,Bermondsey and Old Southwark
+6/3/2017,36,M,White or White British,7,31,M,Knife,Solved,51.50544,-0.09106,Bermondsey and Old Southwark
+6/3/2017,26,M,White or White British,8,32,M,Knife,Solved,51.50544,-0.09106,Bermondsey and Old Southwark
+6/3/2017,32,M,White or White British,9,33,M,Knife,Solved,51.50544,-0.09106,Bermondsey and Old Southwark
+6/3/2017,45,M,White or White British,3,27,M,Vehicle,Solved,51.50544,-0.09106,Bermondsey and Old Southwark
+6/3/2017,30,F,White or White British,10,34,M,Vehicle,Solved,51.50544,-0.09106,Bermondsey and Old Southwark
+6/6/2017,16,M,Black or Black British,1,16,M,Knife,Solved,51.58625,-0.0672,Tottenham
+6/6/2017,39,M,Black or Black British,2,23,F,Knife,Solved,51.40893,-0.28659,Kingston and Surbiton
+6/9/2017,24,M,Black or Black British,2,41,M,Gun,Solved,51.37823,-0.09951,Croydon North
+6/13/2017,30,M,White or White British,2,15,M,Knife,Solved,51.48739,0.02691,Greenwich and Woolwich
+6/19/2017,51,M,Asian or Asian British,1,47,M,Vehicle,Solved,51.56358,-0.10568,Islington South and Finsbury
+6/19/2017,26,M,,1,51,M,Knife,Solved,51.44508,-0.00715,Lewisham East
+6/26/2017,23,M,White or White British,1,25,F,Knife,Solved,51.51097,0.03491,West Ham
+6/26/2017,29,M,White or White British,1,24,M,Knife,Solved,51.51215,0.03729,West Ham
+6/26/2017,34,M,White or White British,1,51,M,Knife,Solved,51.52728,0.05822,East Ham
+6/29/2017,18,M,Black or Black British,1,20,M,Knife,Unsolved,51.52838,-0.27592,Ealing Central and Acton
+7/6/2017,63,F,White or White British,1,20,M,None,Solved,51.41192,-0.15166,Mitcham and Morden
+7/10/2017,89,F,White or White British,1,54,M,Knife,Solved,51.56923,0.26482,Hornchurch and Upminster
+7/11/2017,28,M,White or White British,4,22,M,Knife,Solved,51.60074,0.21078,Hornchurch and Upminster
+7/15/2017,31,M,White or White British,2,25,M,Knife,Solved,51.48096,-0.00792,Greenwich and Woolwich
+7/19/2017,20,F,Asian or Asian British,1,33,M,Knife,Solved,51.41121,-0.23954,Wimbledon
+7/20/2017,24,F,Black or Black British,1,21,M,Knife,Unsolved,51.64365,-0.03705,Edmonton
+7/21/2017,36,F,White or White British,1,34,M,Blunt Object,Solved,51.38048,-0.08922,Croydon North
+8/2/2017,16,M,Black or Black British,,,,Knife,Awaiting Outcome,51.53164,0.09168,East Ham
+8/2/2017,49,M,White or White British,1,21,M,None,Solved,51.51564,-0.14696,Cities of London and Westminster
+8/5/2017,18,M,Asian or Asian British,1,23,M,Vehicle,Solved,51.64854,-0.07984,Enfield North
+8/8/2017,15,M,Black or Black British,4,18,M,Knife,Solved,51.41145,-0.10922,Croydon North
+8/8/2017,19,M,Black or Black British,8,21,M,Knife,Solved,51.48547,-0.07011,Bermondsey and Old Southwark
+8/11/2017,33,F,White or White British,1,27,M,Knife,Solved,51.57294,-0.1971,Finchley and Golders Green
+8/11/2017,66,F,White or White British,1,27,M,Knife,Solved,51.57294,-0.1971,Finchley and Golders Green
+8/14/2017,49,M,White or White British,1,38,M,Knife,Solved,51.45667,0.05086,Eltham
+8/18/2017,30,M,Black or Black British,2,45,M,Knife,Solved,51.46227,-0.11237,Dulwich and West Norwood
+8/20/2017,29,M,White or White British,1,39,M,Knife,Solved,51.546,0.04037,East Ham
+8/23/2017,54,M,Any Other Ethnic Appearance,,,,Gun,Unsolved,51.62825,-0.05091,Edmonton
+8/25/2017,27,M,Black or Black British,3,19,M,Knife,Solved,51.54489,-0.08745,Islington South and Finsbury
+8/25/2017,19,M,Black or Black British,,,,Gun,Unsolved,51.54623,0.0042,West Ham
+8/27/2017,18,M,Black or Black British,2,36,M,Knife,Awaiting Outcome,51.671099,-0.040283,Enfield North
+9/4/2017,20,M,Black or Black British,1,17,M,Knife,Awaiting Outcome,51.5318,-0.13998,Holborn and St Pancras
+9/4/2017,29,M,Black or Black British,3,18,M,Knife,Unsolved,51.46025,-0.35352,Brentford and Isleworth
+9/5/2017,14,M,Black or Black British,,,,Gun,Unsolved,51.5511,0.02401,West Ham
+9/20/2017,21,F,White or White British,2,40,M,Arson,Solved,51.44553,-0.20592,Putney
+9/24/2017,30,M,Black or Black British,5,23,M,Knife,Awaiting Outcome,51.43245,-0.10202,Dulwich and West Norwood
+9/30/2017,21,M,Black or Black British,2,22,M,Knife,Solved,51.52185,-0.03049,Poplar and Limehouse
+10/2/2017,51,M,White or White British,1,47,M,None,Solved,51.52881,0.18349,Dagenham and Rainham
+10/6/2017,18,M,Black or Black British,2,14,M,Knife,Solved,51.56145,-0.24568,Brent Central
+10/13/2017,31,M,White or White British,1,26,M,None,Solved,51.47386,-0.36584,Feltham and Heston
+10/15/2017,20,M,Any Other Ethnic Appearance,3,16,M,Knife,Unsolved,51.53948,0.01799,West Ham
+10/16/2017,20,M,Black or Black British,2,18,M,Knife,Solved,51.47528,-0.20115,Chelsea and Fulham
+10/16/2017,28,M,Asian or Asian British,2,18,M,Knife,Awaiting Outcome,51.52111,-0.17742,Westminster North
+10/17/2017,31,M,Asian or Asian British,2,23,M,None,Awaiting Outcome,51.53738,0.02767,West Ham
+10/29/2017,17,M,Black or Black British,2,18,M,Knife,Awaiting Outcome,51.37605,-0.10146,Croydon North
+10/30/2017,55,M,White or White British,1,48,M,Knife,Awaiting Outcome,51.49319,-0.20124,Kensington
+11/2/2017,17,M,Black or Black British,5,18,M,Knife,Awaiting Outcome,51.40882,-0.06454,Lewisham West and Penge
+11/4/2017,7,F,Asian or Asian British,1,55,M,Ligature,Solved,51.40289,-0.23152,Wimbledon
+11/8/2017,21,M,Black or Black British,1,21,M,Knife,Awaiting Outcome,51.49895,0.06086,East Ham
+11/11/2017,26,M,Black or Black British,1,21,M,Gun,Solved,51.52202,-0.37473,"Ealing, Southall"
+11/12/2017,36,M,White or White British,3,27,M,Blunt Object,Awaiting Outcome,51.5603,0.0849,Ilford South
+11/14/2017,20,M,Any Other Ethnic Appearance,,,,Knife,Awaiting Outcome,51.55743,-0.06379,Hackney North and Stoke Newington
+11/16/2017,55,F,White or White British,,,,Knife,Awaiting Outcome,51.59096,-0.1411,Hornsey and Wood Green
+11/19/2017,29,M,White or White British,1,32,M,None,Solved,51.49736,-0.0114,Bethnal Green and Bow
+11/20/2017,18,M,Black or Black British,5,20,M,Knife,Awaiting Outcome,51.5962,-0.03217,Walthamstow
+11/21/2017,18,M,White or White British,3,17,M,Knife,Awaiting Outcome,51.55225,-0.35451,Ealing North
+11/23/2017,32,M,White or White British,,,,None,Unsolved,51.462265,-0.164713,Battersea
+11/29/2017,40,M,Any Other Ethnic Appearance,1,17,M,Blunt Object,Solved,51.57054,-0.09611,Hackney North and Stoke Newington
+12/1/2017,60,M,Black or Black British,1,61,M,Knife,Solved,51.45197,-0.05569,Camberwell and Peckham
+12/4/2017,41,F,Black or Black British,,,,Strangulation,Unsolved,51.476,-0.02423,"Lewisham, Deptford"
+12/4/2017,69,M,Black or Black British,,,,Strangulation,Unsolved,51.476,-0.02423,"Lewisham, Deptford"
+12/7/2017,24,M,Black or Black British,,,,Knife,Unsolved,51.54319,-0.03842,Hackney South and Shoreditch
+12/10/2017,23,M,White or White British,1,23,M,Knife,Solved,51.54004,-0.31537,Ealing North
+12/16/2017,21,M,Black or Black British,1,21,M,Knife,Solved,51.62518,-0.04641,Edmonton
+12/20/2017,51,M,White or White British,2,21,M,None,Awaiting Outcome,51.507211,-0.128381,Cities of London and Westminster
+12/22/2017,36,M,Asian or Asian British,1,35,M,Knife,Solved,51.46461,-0.36894,Brentford and Isleworth
+12/24/2017,22,F,White or White British,1,31,M,Knife,Solved,51.57456,-0.10287,Tottenham
+12/31/2017,18,M,Black or Black British,1,21,M,Knife,Awaiting Outcome,51.67577,-0.04105,Enfield North
+12/31/2017,17,M,Black or Black British,1,16,M,Knife,Awaiting Outcome,51.44002,-0.10572,Dulwich and West Norwood
+12/31/2017,20,M,Black or Black British,,,,Knife,Unsolved,51.52779,0.00683,West Ham
+1/1/2018,20,M,Black or Black British,3,19,M,Knife,Awaiting Outcome,51.52553,-0.09199,Islington South and Finsbury
+1/3/2018,44,F,White or White British,1,45,M,Knife,Solved,51.56797,0.09566,Ilford South
+1/8/2018,49,M,Asian or Asian British,1,16,M,None,Solved,51.61476,-0.24693,Hendon
+1/8/2018,34,M,Black or Black British,3,17,M,Knife,Awaiting Outcome,51.55456,-0.08294,Hackney North and Stoke Newington
+1/10/2018,18,M,Black or Black British,1,18,M,None,Awaiting Outcome,51.41848,0.06419,Bromley and Chislehurst
+1/11/2018,25,M,Black or Black British,3,24,M,Knife,Solved,51.51051,-0.24625,Hammersmith
+1/28/2018,26,M,Black or Black British,,,,Knife,Unsolved,51.56562,-0.0668,Hackney North and Stoke Newington
+1/31/2018,25,M,Black or Black British,3,21,M,Knife,Awaiting Outcome,51.51696,-0.24034,Hammersmith
+2/1/2018,49,M,Asian or Asian British,1,30,M,None,Solved,51.56369,0.09711,Ilford South
+2/2/2018,1,F,,2,21,F,None,Awaiting Outcome,51.59303,-0.0699,Tottenham
+2/3/2018,19,M,Any Other Ethnic Appearance,2,19,M,Knife,Awaiting Outcome,51.53378,0.0752,East Ham
+2/3/2018,22,M,Black or Black British,1,20,M,Knife,Solved,51.59754,-0.06648,Tottenham
+2/4/2018,3,M,White or White British,1,23,F,Blunt Object,Awaiting Outcome,51.389092,-0.075626,Croydon Central
+2/4/2018,39,M,,1,27,M,Knife,Awaiting Outcome,51.46829,-0.06703,Camberwell and Peckham
+2/9/2018,55,F,White or White British,2,43,F,Knife,Awaiting Outcome,51.54417,-0.16594,Hampstead and Kilburn
+2/11/2018,19,M,Asian or Asian British,1,23,M,Knife,Awaiting Outcome,51.42588,-0.12691,Streatham
+2/12/2018,41,M,Any Other Ethnic Appearance,,,,Gun,Unsolved,51.65178,-0.16148,Chipping Barnet
+2/13/2018,54,F,,1,58,M,None,Awaiting Outcome,51.551,0.08613,Ilford South
+2/14/2018,17,M,Black or Black British,2,17,,Knife,Awaiting Outcome,51.51276,0.022,West Ham
+2/15/2018,48,M,,1,38,F,None,Awaiting Outcome,51.62725,-0.00412,Chingford and Woodford Green
+2/18/2018,19,M,Black or Black British,3,16,M,Knife,Solved,51.49473,-0.19768,Kensington
+2/19/2018,26,M,Black or Black British,1,39,M,Knife,Awaiting Outcome,51.50854,-0.35128,"Ealing, Southall"
+2/20/2018,20,M,Black or Black British,4,18,M,Knife,Awaiting Outcome,51.54719,-0.15176,Holborn and St Pancras
+2/20/2018,17,M,Black or Black British,4,18,M,Knife,Awaiting Outcome,51.54786,-0.13515,Holborn and St Pancras
+2/20/2018,24,M,,1,23,M,Gun,Awaiting Outcome,51.49754,-0.13234,Cities of London and Westminster
+2/24/2018,65,M,,1,19,F,Other,Solved,51.51384,-0.180512,Westminster North
+2/25/2018,30,M,White or White British,3,20,M,Blunt Object,Solved,51.47719,-0.01527,Greenwich and Woolwich
+3/1/2018,42,M,,1,32,M,Knife,Solved,51.50003,-0.22461,Hammersmith
+3/5/2018,20,M,Black or Black British,3,19,M,Knife,Solved,51.39543,-0.06386,Croydon Central
+3/5/2018,47,F,,1,57,M,Knife,Solved,51.43567,-0.34914,Twickenham
+3/8/2018,19,M,Black or Black British,2,21,M,Gun,Awaiting Outcome,51.59866,-0.11087,Hornsey and Wood Green
+3/10/2018,44,M,,1,37,M,Knife,Solved,51.4842,-0.09659,Bermondsey and Old Southwark
+3/12/2018,68,M,White or White British,,,,None,Unsolved,51.40933,-0.26718,Richmond Park
+3/14/2018,18,M,Black or Black British,4,17,M,Knife,Awaiting Outcome,51.58388,0.13079,Dagenham and Rainham
+3/14/2018,20,M,White or White British,1,15,M,Gun,Awaiting Outcome,51.58672,-0.03742,Walthamstow
+3/17/2018,23,M,White or White British,4,,M,Knife,Unsolved,51.6451,-0.03923,Edmonton
+3/18/2018,36,M,Black or Black British,2,24,M,Knife,Solved,51.47589,-0.39973,Feltham and Heston
+3/19/2018,48,M,Asian or Asian British,2,23,M,Knife,Solved,51.50077,-0.39687,"Ealing, Southall"
+3/19/2018,41,M,Black or Black British,1,17,M,Knife,Awaiting Outcome,51.58614,-0.00531,Walthamstow
+3/20/2018,21,M,White or White British,2,22,M,Knife,Solved,51.54081,0.00125,West Ham
+3/22/2018,42,M,Black or Black British,1,28,M,Knife,Solved,51.5501,-0.02904,Hackney South and Shoreditch
+3/24/2018,36,M,Black or Black British,2,32,M,None,Solved,51.4746,-0.03075,"Lewisham, Deptford"
+3/25/2018,26,M,Black or Black British,,,,Gun,Unsolved,51.55084,-0.06643,Hackney South and Shoreditch
+3/26/2018,50,M,,1,44,M,Knife,Awaiting Outcome,51.42639,-0.16963,Tooting
+3/27/2018,59,M,White or White British,3,48,M,None,Awaiting Outcome,51.52795,0.11874,Dagenham and Rainham
+3/29/2018,23,M,Black or Black British,,,,Knife,Awaiting Outcome,51.49436,0.09583,Erith and Thamesmead
+3/30/2018,36,F,Black or Black British,1,38,M,Knife,Solved,51.58837,-0.08554,Tottenham
+4/1/2018,20,M,White or White British,1,24,M,Knife,Awaiting Outcome,51.44361,-0.17636,Tooting
+4/2/2018,17,F,Black or Black British,1,30,M,Gun,Awaiting Outcome,51.60062,-0.05793,Tottenham
+4/3/2018,80,F,White or White British,1,29,M,None,Solved,51.548,-0.13026,Holborn and St Pancras
+4/3/2018,16,M,Asian or Asian British,2,18,M,Gun,Awaiting Outcome,51.57486,-0.02937,Walthamstow
+4/4/2018,18,M,Black or Black British,2,17,M,Knife,Solved,51.54769,-0.04932,Hackney South and Shoreditch
+4/4/2018,53,M,Black or Black British,1,26,M,None,Awaiting Outcome,51.56347,-0.05861,Hackney North and Stoke Newington
+4/4/2018,38,M,White or White British,1,78,M,Knife,Solved,51.44129,0.00723,Lewisham East
+4/12/2018,35,M,White or White British,1,25,F,Knife,Awaiting Outcome,51.49402,-0.00803,Bethnal Green and Bow
+4/15/2018,26,M,,1,34,F,Knife,Solved,51.59191,-0.25547,Hendon
+4/15/2018,18,F,,1,32,M,None,Awaiting Outcome,51.499608,0.118693,Erith and Thamesmead
+4/15/2018,38,F,Asian or Asian British,1,21,M,Knife,Awaiting Outcome,51.4587,-0.12126,Streatham
+4/16/2018,18,M,Asian or Asian British,,,,Knife,Awaiting Outcome,51.55283,0.02795,West Ham
+4/17/2018,47,M,White or White British,2,24,M,None,Awaiting Outcome,51.52102,-0.10836,Holborn and St Pancras
+4/20/2018,32,M,White or White British,1,31,M,None,Awaiting Outcome,51.39335,-0.20683,Wimbledon
+4/21/2018,20,M,Black or Black British,1,27,M,Knife,Awaiting Outcome,51.56242,-0.11144,Islington North
+5/1/2018,38,M,Black or Black British,,,,Gun,Awaiting Outcome,51.59448,-0.28562,Harrow East
+5/5/2018,17,M,Black or Black British,,,,Gun,Awaiting Outcome,51.47871,-0.10325,Bermondsey and Old Southwark
+5/13/2018,71,F,,1,51,M,Ligature,Solved,51.51015,-0.4072,Hayes and Harlington
+5/15/2018,85,F,White or White British,1,65,M,None,Awaiting Outcome,51.59043,0.17453,Romford
+5/17/2018,23,M,Black or Black British,1,22,M,Knife,Awaiting Outcome,51.54175,0.07042,East Ham
+5/18/2018,20,M,Black or Black British,1,16,M,Knife,Awaiting Outcome,51.55725,-0.38566,Uxbridge and South Ruislip
+5/20/2018,31,F,White or White British,1,35,M,None,Awaiting Outcome,51.39145,0.03633,Bromley and Chislehurst
+5/20/2018,28,M,Asian or Asian British,1,44,M,Knife,Awaiting Outcome,51.40574,-0.16184,Mitcham and Morden
+5/21/2018,30,M,Black or Black British,1,21,M,Knife,Awaiting Outcome,51.53479,-0.10437,Islington South and Finsbury
+5/21/2018,46,M,White or White British,1,52,M,Knife,Solved,51.47735,-0.11,Vauxhall
+5/25/2018,61,F,,1,95,M,None,Awaiting Outcome,51.54966,-0.11253,Islington North
+5/26/2018,22,F,White or White British,2,38,M,None,Awaiting Outcome,51.51991,-0.09018,Cities of London and Westminster
+5/30/2018,41,M,,1,14,M,Knife,Awaiting Outcome,51.4869,-0.18387,Chelsea and Fulham
+6/1/2018,28,F,White or White British,1,43,M,Knife,Awaiting Outcome,51.56106,-0.25401,Brent Central
+6/9/2018,35,M,White or White British,4,23,M,Knife,Awaiting Outcome,51.58895,-0.1093,Hornsey and Wood Green
+6/12/2018,50,M,White or White British,1,52,M,None,Awaiting Outcome,51.54842,0.12106,Dagenham and Rainham
+6/14/2018,52,M,White or White British,1,20,M,None,Awaiting Outcome,51.47678,-0.12019,Vauxhall
+6/18/2018,23,M,Black or Black British,,,,Knife,Awaiting Outcome,51.49393,-0.06825,Bermondsey and Old Southwark
+6/23/2018,56,F,Asian or Asian British,1,50,M,Knife,Awaiting Outcome,51.49069,0.00917,Greenwich and Woolwich
+6/23/2018,15,M,Black or Black British,2,16,M,Knife,Awaiting Outcome,51.59933,0.16404,Romford
+6/27/2018,20,M,Any Other Ethnic Appearance,3,18,M,Knife,Awaiting Outcome,51.61415,-0.05399,Edmonton
+7/1/2018,72,F,,1,70,M,None,Awaiting Outcome,51.48341,0.06877,Greenwich and Woolwich
+7/7/2018,57,M,White or White British,1,60,M,None,Awaiting Outcome,51.556879,0.006391,Leyton and Wanstead
+7/12/2018,17,F,Any Other Ethnic Appearance,1,21,M,Knife,Awaiting Outcome,51.47859,-0.09138,Camberwell and Peckham
+7/24/2018,69,F,White or White British,1,73,M,Knife,Awaiting Outcome,51.45822,-0.09372,Dulwich and West Norwood
+7/26/2018,18,M,Black or Black British,1,17,M,Knife,Awaiting Outcome,51.47317,-0.09995,Vauxhall
+8/1/2018,23,M,Black or Black British,4,18,M,Knife,Awaiting Outcome,51.47871,-0.10325,Bermondsey and Old Southwark
+8/2/2018,50,F,White or White British,1,50,M,Other,Awaiting Outcome,51.5581,0.17965,Dagenham and Rainham
+8/5/2018,22,M,Asian or Asian British,2,19,M,Knife,Awaiting Outcome,51.40958,-0.28692,Kingston and Surbiton
+8/7/2018,7,M,Black or Black British,2,21,M,Other,Awaiting Outcome,51.47839,-0.02986,"Lewisham, Deptford"
+8/15/2018,31,F,Black or Black British,1,40,M,Knife,Awaiting Outcome,51.46794,-0.15811,Battersea
+8/17/2018,52,M,White or White British,1,25,M,Poison,Awaiting Outcome,51.361473,-0.30608,Kingston and Surbiton
+8/17/2018,63,M,Black or Black British,1,67,M,Knife,Awaiting Outcome,51.48906,-0.08037,Bermondsey and Old Southwark
+8/17/2018,42,M,,1,16,M,Knife,Awaiting Outcome,51.62035,-0.00806,Chingford and Woodford Green
+8/18/2018,66,M,Black or Black British,1,29,F,Knife,Awaiting Outcome,51.4465,-0.01828,Lewisham East
+8/21/2018,43,F,,1,42,M,Other,Awaiting Outcome,51.56204,-0.1141,Islington North
+8/24/2018,73,F,White or White British,1,54,M,None,Awaiting Outcome,51.43615,-0.33591,Twickenham
+8/25/2018,22,M,Black or Black British,1,27,M,Knife,Awaiting Outcome,51.48148,-0.02565,Greenwich and Woolwich
+8/31/2018,68,F,,1,36,M,None,Awaiting Outcome,51.3982,0.06242,Bromley and Chislehurst
+9/3/2018,22,M,Any Other Ethnic Appearance,,,,Gun,Awaiting Outcome,51.6053,-0.07869,Tottenham
+9/6/2018,46,F,Black or Black British,4,21,M,Arson,Awaiting Outcome,51.47407,0.04526,Eltham
+9/19/2018,25,M,Black or Black British,1,24,M,Knife,Awaiting Outcome,51.54966,-0.12984,Islington North
+9/21/2018,76,M,Asian or Asian British,1,73,F,None,Awaiting Outcome,51.53988,0.06121,East Ham
+9/22/2018,20,M,Black or Black British,3,,,Knife,Awaiting Outcome,51.57118,-0.07604,Hackney North and Stoke Newington
+9/22/2018,19,M,Black or Black British,2,18,M,Gun,Awaiting Outcome,51.58599,-0.00541,Walthamstow
+9/27/2018,32,F,White or White British,1,26,M,Blunt Object,Awaiting Outcome,51.52436,-0.4197,Hayes and Harlington
+10/11/2018,22,M,Black or Black British,1,27,M,Gun,Awaiting Outcome,51.51978,-0.41463,Hayes and Harlington
+10/12/2018,23,M,Black or Black British,,,,Knife,Awaiting Outcome,51.60946,0.11265,Ilford North
+10/17/2018,46,M,Black or Black British,2,45,M,None,Awaiting Outcome,51.47405,-0.15243,Battersea
+10/22/2018,18,M,Black or Black British,,,,Gun,Awaiting Outcome,51.48744,0.007,Greenwich and Woolwich
+10/22/2018,25,F,Asian or Asian British,1,32,M,None,Awaiting Outcome,51.53255,-0.03765,Bethnal Green and Bow
+10/25/2018,49,M,Black or Black British,,,,None,Awaiting Outcome,51.55648,-0.14555,Holborn and St Pancras
+10/26/2018,47,M,White or White British,1,43,F,Knife,Awaiting Outcome,51.59238,-0.23386,Hendon
+10/31/2018,38,M,White or White British,1,,M,Knife,Awaiting Outcome,51.49425,-0.05747,Bermondsey and Old Southwark
+11/1/2018,15,M,Black or Black British,,,,Knife,Awaiting Outcome,51.43271,-0.02023,Lewisham West and Penge
+11/2/2018,17,M,Black or Black British,,,,Knife,Awaiting Outcome,51.45276,-0.14771,Battersea
+11/4/2018,22,M,Black or Black British,3,19,M,Knife,Awaiting Outcome,51.406126,-0.061539,Lewisham West and Penge
+11/5/2018,16,M,Black or Black British,4,,,Knife,Awaiting Outcome,51.449083,-0.113258,Streatham
+11/12/2018,35,F,Asian or Asian British,1,50,M,Other,Awaiting Outcome,51.582829,0.104606,Ilford North
+11/12/2018,62,F,Asian or Asian British,1,66,M,None,Awaiting Outcome,51.444208,-0.161882,Tooting
+11/16/2018,75,F,White or White British,1,55,M,Knife,Awaiting Outcome,51.481991,-0.063869,Camberwell and Peckham
+11/17/2018,89,F,,1,37,F,None,Awaiting Outcome,51.52428,-0.2840304,Ealing Central and Acton
+11/17/2018,58,M,White or White British,2,37,M,Blunt Object,Awaiting Outcome,51.422851,-0.328292,Twickenham
+11/24/2018,26,M,Black or Black British,2,,M,Knife,Awaiting Outcome,51.528457,-0.076517,Hackney South and Shoreditch
+12/5/2018,77,F,White or White British,3,,M,None,Awaiting Outcome,51.650489,-0.211603,Chipping Barnet
+12/8/2018,18,M,White or White British,1,17,M,Knife,Awaiting Outcome,51.475641,-0.011144,Greenwich and Woolwich
+12/11/2018,18,M,White or White British,1,25,M,Knife,Awaiting Outcome,51.448626,0.026727,Eltham
+12/18/2018,20,M,Black or Black British,3,20,M,Gun,Awaiting Outcome,51.632943,-0.050988,Edmonton
+12/22/2018,25,M,Black or Black British,2,15,M,Knife,Awaiting Outcome,51.592631,-0.069436,Tottenham
