@@ -37,12 +37,7 @@
 	
 	<link rel="stylesheet" type="text/css" href="../css/style.css">
 	
-	<link rel="stylesheet" href="../css/londonhomicide/style.css">
-	<script src="https://unpkg.com/d3@5.6.0/dist/d3.min.js"></script>
-    <script src="https://unpkg.com/topojson@3.0.2/dist/topojson.min.js"></script>
-    <script src="https://d3js.org/d3-array.v1.min.js"></script>
-    <script src="https://d3js.org/d3-geo.v1.min.js"></script>
-    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+
 	
 	<style>
 	
@@ -75,10 +70,6 @@
 			<div class="collapse navbar-collapse" id="navbar-mobile">
 
 				<ul class="navbar-nav ml-md-auto">
-					<li class="nav-item">
-						<a href="https://twitter.com/Nadramon" style="color: inherit;" target="_blank"><i class="icon-twitter font-size-xl"></i></a>
-					</li>
-					&nbsp &nbsp
 					<li class="nav-item">
 						<a href="https://www.linkedin.com/in/rsatriana/" style="color: inherit;" target="_blank"><i class="icon-linkedin2 font-size-xl"></i></a>
 					</li>
@@ -130,6 +121,7 @@
 							Projects
 						</a>
 						<div class="dropdown-menu">
+							<a href="robotresearch.html" class="dropdown-item"><i class="fas fa-dog"></i> Robot Research</a>
 							<a href="#" class="dropdown-item active"><i class="icon-statistics"></i> London Homicide</a>
 							<a href="uofcmingle.html" class="dropdown-item"><i class="icon-users4"></i> UofC Mingle</a>
 							<a href="foodbank.html" class="dropdown-item"><i class="icon-database"></i> Foodbank Database System</a>
@@ -244,66 +236,23 @@
 								<div class="row">
 									<div class="col-sm-2">
 									</div>
-									<div class="col-sm-8">
+									<div class="col-sm-4">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<a href="https://colin-lacey.github.io/UofC-Mingle/" target="_blank"><h4>Full Documentation</h4></a>
+											<a href="https://nadramon.github.io/res/londonhomicide/CPSC_583_Final_Project.pdf" target="_blank"><h4>Full Documentation</h4></a>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="d-flex align-items-center justify-content-center mb-2">
+											<a href="https://nadramon.github.io/pages/583Final/" target="_blank"><h4>Visualisation Link</h4></a>
 										</div>
 									</div>
 									<div class="col-sm-2">
 									</div>
 								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<div class="row">
-					<div class="col-xl-12">
-						<div class="card">
-							<div class="card-header header-elements-inline d-flex align-items-center justify-content-center mb-2">
-								<h1 class="card-title">London Homicide</h1>
-							</div>
-							<div class="card-body py-0">
 								<div class="row">
 									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<div class="transbox">
-												<div class = "notTrans">
-													<h1 style="text-align: center;">London Homicides Visualisation</h1>
-													<ul style="text-align: center;">
-														<li>Slider to change the year filter for the data</li>
-														<li>Hover over map for borough name and dead count</li>
-														<li>Hover over icons for more details on homicide</li>
-														<li>Hover over bar chart to highlight positions on map</li>
-														<li>Click bar chart to filter out data</li>
-														<li>Double click bar chart to reset</li>
-													</ul>
-													<div class="slidecontainer" style="text-align: center;">
-														<p>Year: <span id="demo">2012</span></p>
-														<input type="range" min="2012" max="2018" value="1" class="slider" id="myRange" list="ticks" onchange="slider(this)">
-														<datalist id="ticks">
-															<option value="2012">2012</option>
-															<option value="2013">2013</option>
-															<option value="2014">2014</option>
-															<option value="2015">2015</option>
-															<option value="2016">2016</option>
-															<option value="2017">2017</option>
-															<option value="2018">2018</option>
-														</datalist>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="row">
-									<div class="col-sm-12">
-										<div class="d-flex align-items-center justify-content-center mb-2">
-											<svg id="container" width="100%" height="900"></svg>
-												<script src="../js/londonhomicide/finalScript.js"></script>
-												<svg class="chart" id="barChart" width="800" height="400">
-													<rect class="bg"></rect>
-											</svg>
+											<img src="../img/londonhomicide/logo.PNG" class="">
 										</div>
 									</div>
 								</div>
@@ -322,11 +271,10 @@
 								<div class="row">
 									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<p>We had to figure out whether there are interests for making our application. We interviewed 5 different types of people
-											in regards to clubs and events, and we asked them 6 questions regarding clubs and events. The majority of people find it difficult
-											to look for clubs on campus, as there is a lack of publicity to them and some don't even know that there is a list of clubs on the
-											website of the Student Union. Another investigation we did was by secondary research, where we read research papers of similar systems
-											and discovered things we should do and things we should avoid.</p>
+											<p>First we had to discover what dataset we were going to visualise. We went on various websites such as kaggle.com, statista.com and
+												good old fashioned Google. There were four that we were interested in; fast food restaurants, homicides in London, unemployment rate
+												and employment rate by educational attainment, and periodic table of elements mapped to stocks. The decision to use the Homicides in London
+												dataset came because of the ability of visualising it in multiple ways as well as being able to draw multiple stories from it.</p>
 										</div>
 									</div>
 								</div>
@@ -343,9 +291,9 @@
 								<div class="row">
 									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<p>We came up with features of the application and created an affinity diagram to see how everything connects.
-											Afterwards we drew sketches of each page we are going to implement on a phone-sized paper as it will also be used
-											later when we are prototyping.</p>
+											<p>Utilising the 10+10 method, we came up with 40 sketches with visualisation of the dataset. We then created variations of such sketches
+												to further explore the visualisation possibilities. After that, we prototyped 10 variations in D3.js. We had to decide on which
+												methods to implement, we left out features such as the size of the icon as it was hard to distinguish on the map.</p>
 										</div>
 									</div>
 								</div>
@@ -363,7 +311,7 @@
 								<div class="row">
 									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<img src="../img/uofcmingle/affinity.png">
+											<img src="../img/londonhomicide/1.jpg">
 										</div>
 									</div>
 								</div>
@@ -376,7 +324,7 @@
 								<div class="row">
 									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<img src="../img/uofcmingle/1.jpg">
+											<img src="../img/londonhomicide/2.jpg">
 										</div>
 									</div>
 								</div>
@@ -389,7 +337,7 @@
 								<div class="row">
 									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<img src="../img/uofcmingle/2.jpg">
+											<img src="../img/londonhomicide/3.jpg">
 										</div>
 									</div>
 								</div>
@@ -402,7 +350,7 @@
 								<div class="row">
 									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<img src="../img/uofcmingle/3.jpg">
+											<img src="../img/londonhomicide/4.jpg">
 										</div>
 									</div>
 								</div>
@@ -415,15 +363,17 @@
 					<div class="col-xl-6">
 						<div class="card">
 							<div class="card-header header-elements-inline">
-								<h1 class="card-title">Prototyping</h1>
+								<h1 class="card-title">Implementation</h1>
 							</div>
 							<div class="card-body py-0">
 								<div class="row">
 									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<p>The first prototyping we did was of paper prototyping, where we recorded a video of navigating
-											through the pages. Following that, we used a software called Adobe XD to create our low-fidelity and
-											high-fidelity prototype and to start making the prototype with aesthetic design in mind.</p>
+											<p>Using d3.js, we created a map visualisation to represent the data. There are quite a few stories that could be told
+											since we used various techniques such as colour, using icons and interactivity. There is a slider to change the year for
+											the data and further filtering can be applied by clicking on the bar chart.
+											The map, icons and bars are hoverable to provide further information. The data is also categorised by
+											murder weapon, the sex of victim, the sex of suspect as well as the location. </p>
 										</div>
 									</div>
 								</div>
@@ -440,10 +390,10 @@
 								<div class="row">
 									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<p>We performed heuristic evaluation by giving our application to another group for them to test out.
-											They gave us very important feedback and some were even critical, meaning we had to fix it right away.
-											Colours were a very strong feedback we received as our first prototype, the colours did not work well
-											as it gives associations that we did not have. Otherwise, the prototype was well received.</p>
+											<p>One thing that we could have done is implement charts such as a pie chart that is connected to the map and bar charts
+											which could portray more data such as the age ranges of the victim, since there is still a lot of space available to be
+											used on the page. The visualisation also has a dated feeling and we could have improved upon this with our colour
+											choice and format of the visual elements.</p>
 										</div>
 									</div>
 								</div>
@@ -458,8 +408,8 @@
 							<div class="card-body py-0">
 								<div class="row">
 									<div class="col-sm-12">
-										<div class="d-flex align-items-center justify-content-center mb-2">						
-										<iframe src="https://player.vimeo.com/video/368858067" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+										<div class="d-flex align-items-center justify-content-center mb-2">
+											<img src="../img/londonhomicide/8.PNG">
 										</div>
 									</div>
 								</div>
@@ -472,7 +422,7 @@
 								<div class="row">
 									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<img src="../img/uofcmingle/4.PNG">
+											<img src="../img/londonhomicide/5.PNG">
 										</div>
 									</div>
 								</div>
@@ -485,7 +435,7 @@
 								<div class="row">
 									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<img src="../img/uofcmingle/5.PNG">
+											<img src="../img/londonhomicide/6.PNG">
 										</div>
 									</div>
 								</div>
@@ -499,7 +449,7 @@
 								<div class="row">
 									<div class="col-sm-12">
 										<div class="d-flex align-items-center justify-content-center mb-2">
-											<img src="../img/uofcmingle/6.PNG">
+											<img src="../img/londonhomicide/7.PNG">
 										</div>
 									</div>
 								</div>
@@ -541,9 +491,6 @@
 
 	
 	
-	<script>
-		barsplot();
-	</script>
 
 </body>
 </html>
